@@ -67,7 +67,7 @@ jupyter lab build
 ### Additional Troubleshooting
 
 - Ensure that Git (version ```>=2.x```) is installed, get the latest version [here](https://www.atlassian.com/git/tutorials/install-git#windows)
-- You need to add the following paths to PATH:
+- You need to add the following paths to PATH *[image guide](https://appuals.com/fix-git-is-not-recognized-as-an-internal-or-external-command/)*:
 
     ``` shell
     C:\Program Files\Git\bin\
