@@ -50,7 +50,7 @@ An intuitive and visual way (GUI) to collaborate on JupyterLab. You can use the 
 
 Allows preview of changes made in python notebooks.
 
-![](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/11/27/sagemaker-git-13.gif)
+![jupyter lab](https://github.com/jupyterlab/jupyterlab-git/blob/master/docs/figs/demo-0-10-0.gif)
 
 ```shell
 pip install --upgrade jupyterlab-git
