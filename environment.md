@@ -89,3 +89,4 @@ jupyter lab build
 
 - Jupyter lab: https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html
 - Jupyter lab-git extension: https://github.com/jupyterlab/jupyterlab-git
+- Comprehensive Git tutorial: https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
