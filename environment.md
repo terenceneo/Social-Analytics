@@ -1,5 +1,12 @@
 # Environment setup
 
+## Contents
+
+* [Github Desktop](#github-desktop)
+* [Jupyter lab](#jupyter-lab)
+* [Jupyter lab-git extension](#jupyter-lab-git-extension)
+* [References](#references)
+
 ## Github Desktop
 
 For syncing local files with GitHub.
@@ -57,7 +64,28 @@ pip install --upgrade jupyterlab-git
 jupyter lab build
 ```
 
-### References
+### Additional Troubleshooting
+
+- Ensure that Git (version ```>=2.x```) is installed, get the latest version [here](https://www.atlassian.com/git/tutorials/install-git#windows)
+- You need to add the following paths to PATH:
+
+    ``` shell
+    C:\Program Files\Git\bin\
+    C:\Program Files\Git\cmd\
+    ```
+
+    And check that these paths are correct – you may have Git installed on a different drive, or under Program Files (x86). Correct the paths if necessary.
+
+    Modifying PATH on Windows 10:
+
+    - In the Start Menu or taskbar search, search for "environment variable".
+    - Select "Edit the system environment variables".
+    - Click the "Environment Variables" button at the bottom.
+    - Double-click the "Path" entry under "System variables".
+    - With the "New" button in the PATH editor, add C:\Program Files\Git\bin\ and C:\Program Files\Git\cmd\ to the end of the list.
+    - Close and re-open your console and jupyter lab
+
+## References
 
 - Jupyter lab: https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html
 - Jupyter lab-git extension: https://github.com/jupyterlab/jupyterlab-git
