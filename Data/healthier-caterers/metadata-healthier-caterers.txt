@@ -1,0 +1,38 @@
+# Metadata for Healthier Caterers
+---
+Identifier: '43f14199-781c-45d6-84de-1a57400407d5'
+Name: 'healthier-caterers'
+Title: 'Healthier Caterers'
+Description: 'Listing of Healthier Caterers'
+Topics:
+  - 'Health'
+Keywords:
+  - 'Caterers'
+  - 'Dining'
+  - 'Dinning'
+  - 'Healthier'
+  - 'OneMap'
+Publisher:
+  Name: 'Health Promotion Board'
+  Admin 1:
+    Name: 'James Lim'
+    Department: 'HEALTH PROMOTION BOARD'
+    Email: 'James_LIM@hpb.gov.sg'
+Sources:
+  - 'Health Promotion Board'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Ad-hoc'
+Last Updated: '2020-05-02T00:02:39.939585'
+Resources:
+  -
+    Identifier: '976388da-768c-4c80-83e7-7169094dd64f'
+    Title: 'Healthier Caterers (KML)'
+    Url: 'https://geo.data.gov.sg/healthiercaterers/2020/04/15/kml/healthiercaterers.kml'
+    Format: 'KML'
+    Last Updated: '2020-04-14T16:00:00'
+  -
+    Identifier: 'aba4eedb-5ecd-464b-9993-15b1a6cee197'
+    Title: 'Healthier Caterers (GEOJSON)'
+    Url: 'https://geo.data.gov.sg/healthiercaterers/2020/04/15/geojson/healthiercaterers.geojson'
+    Format: 'GeoJSON'
+    Last Updated: '2020-04-14T16:00:00'

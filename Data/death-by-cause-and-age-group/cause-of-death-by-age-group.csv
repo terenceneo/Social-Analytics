@@ -1,0 +1,1019 @@
+year,icd_main_category,icd_detail_category,gender,death_age,death_count
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-003-Diarrhoea and gastroenteritis of presumed infectious origin(A09),F,65 - 69,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-003-Diarrhoea and gastroenteritis of presumed infectious origin(A09),F,70 - 74,3
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-003-Diarrhoea and gastroenteritis of presumed infectious origin(A09),F,75 - 79,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-003-Diarrhoea and gastroenteritis of presumed infectious origin(A09),F,80 - 84,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-003-Diarrhoea and gastroenteritis of presumed infectious origin(A09),F,85 and Over,2
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-004-Other intestinal infectious diseases(A01-A08),F,03,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-004-Other intestinal infectious diseases(A01-A08),F,30 - 39,2
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-004-Other intestinal infectious diseases(A01-A08),F,70 - 74,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-004-Other intestinal infectious diseases(A01-A08),F,75 - 79,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-004-Other intestinal infectious diseases(A01-A08),F,85 and Over,4
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-005-Respiratory tuberculosis(A15-A16),F,20 - 29,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-005-Respiratory tuberculosis(A15-A16),F,50 - 59,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-005-Respiratory tuberculosis(A15-A16),F,60 - 64,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-005-Respiratory tuberculosis(A15-A16),F,85 and Over,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-006-Other tuberculosis(A17-A19),F,80 - 84,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-012-Septicaemia(A40-A41),F,30 - 39,2
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-012-Septicaemia(A40-A41),F,50 - 59,4
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-012-Septicaemia(A40-A41),F,60 - 64,5
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-012-Septicaemia(A40-A41),F,65 - 69,3
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-012-Septicaemia(A40-A41),F,70 - 74,3
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-012-Septicaemia(A40-A41),F,75 - 79,8
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-012-Septicaemia(A40-A41),F,80 - 84,8
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-012-Septicaemia(A40-A41),F,85 and Over,12
+2018,1-001-Certain infection and parasitic diseases(A10-B99),"1-017-Other arthropod-borne viral fevers				and viral haemorrhagic fevers(A90-A94,A96-A99)",F,60 - 64,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),"1-017-Other arthropod-borne viral fevers				and viral haemorrhagic fevers(A90-A94,A96-A99)",F,70 - 74,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),"1-017-Other arthropod-borne viral fevers				and viral haemorrhagic fevers(A90-A94,A96-A99)",F,75 - 79,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-019-Viral hepatitis(B15-B19),F,60 - 64,2
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-025-Remainder of certain infectious and parasitic diseases,F,28 days - under 1 years,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-025-Remainder of certain infectious and parasitic diseases,F,30 - 39,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-025-Remainder of certain infectious and parasitic diseases,F,40 - 49,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-025-Remainder of certain infectious and parasitic diseases,F,50 - 59,2
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-025-Remainder of certain infectious and parasitic diseases,F,65 - 69,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-025-Remainder of certain infectious and parasitic diseases,F,80 - 84,2
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-025-Remainder of certain infectious and parasitic diseases,F,85 and Over,1
+2018,1-026-Neplasms(C00-D48),"1-027-Malignant neoplasm of lip, oral cavity and pharynx(C00-C14)",F,20 - 29,1
+2018,1-026-Neplasms(C00-D48),"1-027-Malignant neoplasm of lip, oral cavity and pharynx(C00-C14)",F,30 - 39,3
+2018,1-026-Neplasms(C00-D48),"1-027-Malignant neoplasm of lip, oral cavity and pharynx(C00-C14)",F,40 - 49,6
+2018,1-026-Neplasms(C00-D48),"1-027-Malignant neoplasm of lip, oral cavity and pharynx(C00-C14)",F,50 - 59,11
+2018,1-026-Neplasms(C00-D48),"1-027-Malignant neoplasm of lip, oral cavity and pharynx(C00-C14)",F,60 - 64,8
+2018,1-026-Neplasms(C00-D48),"1-027-Malignant neoplasm of lip, oral cavity and pharynx(C00-C14)",F,65 - 69,9
+2018,1-026-Neplasms(C00-D48),"1-027-Malignant neoplasm of lip, oral cavity and pharynx(C00-C14)",F,70 - 74,7
+2018,1-026-Neplasms(C00-D48),"1-027-Malignant neoplasm of lip, oral cavity and pharynx(C00-C14)",F,75 - 79,8
+2018,1-026-Neplasms(C00-D48),"1-027-Malignant neoplasm of lip, oral cavity and pharynx(C00-C14)",F,80 - 84,4
+2018,1-026-Neplasms(C00-D48),"1-027-Malignant neoplasm of lip, oral cavity and pharynx(C00-C14)",F,85 and Over,3
+2018,1-026-Neplasms(C00-D48),1-028-Malignant neoplasm of oesophagus(C15),F,50 - 59,2
+2018,1-026-Neplasms(C00-D48),1-028-Malignant neoplasm of oesophagus(C15),F,65 - 69,2
+2018,1-026-Neplasms(C00-D48),1-028-Malignant neoplasm of oesophagus(C15),F,70 - 74,2
+2018,1-026-Neplasms(C00-D48),1-028-Malignant neoplasm of oesophagus(C15),F,75 - 79,2
+2018,1-026-Neplasms(C00-D48),1-028-Malignant neoplasm of oesophagus(C15),F,80 - 84,3
+2018,1-026-Neplasms(C00-D48),1-028-Malignant neoplasm of oesophagus(C15),F,85 and Over,3
+2018,1-026-Neplasms(C00-D48),1-029-Malignant neoplasm of stomach(C16),F,30 - 39,1
+2018,1-026-Neplasms(C00-D48),1-029-Malignant neoplasm of stomach(C16),F,40 - 49,4
+2018,1-026-Neplasms(C00-D48),1-029-Malignant neoplasm of stomach(C16),F,50 - 59,21
+2018,1-026-Neplasms(C00-D48),1-029-Malignant neoplasm of stomach(C16),F,60 - 64,14
+2018,1-026-Neplasms(C00-D48),1-029-Malignant neoplasm of stomach(C16),F,65 - 69,16
+2018,1-026-Neplasms(C00-D48),1-029-Malignant neoplasm of stomach(C16),F,70 - 74,13
+2018,1-026-Neplasms(C00-D48),1-029-Malignant neoplasm of stomach(C16),F,75 - 79,18
+2018,1-026-Neplasms(C00-D48),1-029-Malignant neoplasm of stomach(C16),F,80 - 84,23
+2018,1-026-Neplasms(C00-D48),1-029-Malignant neoplasm of stomach(C16),F,85 and Over,28
+2018,1-026-Neplasms(C00-D48),"1-030-Malignant neoplasm of colon, rectum and anus(C18-C21)",F,20 - 29,1
+2018,1-026-Neplasms(C00-D48),"1-030-Malignant neoplasm of colon, rectum and anus(C18-C21)",F,30 - 39,4
+2018,1-026-Neplasms(C00-D48),"1-030-Malignant neoplasm of colon, rectum and anus(C18-C21)",F,40 - 49,15
+2018,1-026-Neplasms(C00-D48),"1-030-Malignant neoplasm of colon, rectum and anus(C18-C21)",F,50 - 59,47
+2018,1-026-Neplasms(C00-D48),"1-030-Malignant neoplasm of colon, rectum and anus(C18-C21)",F,60 - 64,55
+2018,1-026-Neplasms(C00-D48),"1-030-Malignant neoplasm of colon, rectum and anus(C18-C21)",F,65 - 69,41
+2018,1-026-Neplasms(C00-D48),"1-030-Malignant neoplasm of colon, rectum and anus(C18-C21)",F,70 - 74,52
+2018,1-026-Neplasms(C00-D48),"1-030-Malignant neoplasm of colon, rectum and anus(C18-C21)",F,75 - 79,52
+2018,1-026-Neplasms(C00-D48),"1-030-Malignant neoplasm of colon, rectum and anus(C18-C21)",F,80 - 84,63
+2018,1-026-Neplasms(C00-D48),"1-030-Malignant neoplasm of colon, rectum and anus(C18-C21)",F,85 and Over,113
+2018,1-026-Neplasms(C00-D48),1-031-Malignant neoplasm of liver and intrahepatic bile ducts(C22),F,30 - 39,2
+2018,1-026-Neplasms(C00-D48),1-031-Malignant neoplasm of liver and intrahepatic bile ducts(C22),F,40 - 49,1
+2018,1-026-Neplasms(C00-D48),1-031-Malignant neoplasm of liver and intrahepatic bile ducts(C22),F,50 - 59,12
+2018,1-026-Neplasms(C00-D48),1-031-Malignant neoplasm of liver and intrahepatic bile ducts(C22),F,60 - 64,10
+2018,1-026-Neplasms(C00-D48),1-031-Malignant neoplasm of liver and intrahepatic bile ducts(C22),F,65 - 69,20
+2018,1-026-Neplasms(C00-D48),1-031-Malignant neoplasm of liver and intrahepatic bile ducts(C22),F,70 - 74,24
+2018,1-026-Neplasms(C00-D48),1-031-Malignant neoplasm of liver and intrahepatic bile ducts(C22),F,75 - 79,30
+2018,1-026-Neplasms(C00-D48),1-031-Malignant neoplasm of liver and intrahepatic bile ducts(C22),F,80 - 84,26
+2018,1-026-Neplasms(C00-D48),1-031-Malignant neoplasm of liver and intrahepatic bile ducts(C22),F,85 and Over,37
+2018,1-026-Neplasms(C00-D48),1-032-Malignant neoplasm of pancreas(C25),F,30 - 39,2
+2018,1-026-Neplasms(C00-D48),1-032-Malignant neoplasm of pancreas(C25),F,40 - 49,2
+2018,1-026-Neplasms(C00-D48),1-032-Malignant neoplasm of pancreas(C25),F,50 - 59,19
+2018,1-026-Neplasms(C00-D48),1-032-Malignant neoplasm of pancreas(C25),F,60 - 64,30
+2018,1-026-Neplasms(C00-D48),1-032-Malignant neoplasm of pancreas(C25),F,65 - 69,26
+2018,1-026-Neplasms(C00-D48),1-032-Malignant neoplasm of pancreas(C25),F,70 - 74,35
+2018,1-026-Neplasms(C00-D48),1-032-Malignant neoplasm of pancreas(C25),F,75 - 79,27
+2018,1-026-Neplasms(C00-D48),1-032-Malignant neoplasm of pancreas(C25),F,80 - 84,17
+2018,1-026-Neplasms(C00-D48),1-032-Malignant neoplasm of pancreas(C25),F,85 and Over,33
+2018,1-026-Neplasms(C00-D48),1-033-Malignant neoplasm of larynx(C32),F,65 - 69,1
+2018,1-026-Neplasms(C00-D48),1-033-Malignant neoplasm of larynx(C32),F,70 - 74,1
+2018,1-026-Neplasms(C00-D48),"1-034-Malignant neoplasm of trachea, bronchus and lung(C33-C34)",F,30 - 39,4
+2018,1-026-Neplasms(C00-D48),"1-034-Malignant neoplasm of trachea, bronchus and lung(C33-C34)",F,40 - 49,13
+2018,1-026-Neplasms(C00-D48),"1-034-Malignant neoplasm of trachea, bronchus and lung(C33-C34)",F,50 - 59,57
+2018,1-026-Neplasms(C00-D48),"1-034-Malignant neoplasm of trachea, bronchus and lung(C33-C34)",F,60 - 64,39
+2018,1-026-Neplasms(C00-D48),"1-034-Malignant neoplasm of trachea, bronchus and lung(C33-C34)",F,65 - 69,65
+2018,1-026-Neplasms(C00-D48),"1-034-Malignant neoplasm of trachea, bronchus and lung(C33-C34)",F,70 - 74,36
+2018,1-026-Neplasms(C00-D48),"1-034-Malignant neoplasm of trachea, bronchus and lung(C33-C34)",F,75 - 79,59
+2018,1-026-Neplasms(C00-D48),"1-034-Malignant neoplasm of trachea, bronchus and lung(C33-C34)",F,80 - 84,58
+2018,1-026-Neplasms(C00-D48),"1-034-Malignant neoplasm of trachea, bronchus and lung(C33-C34)",F,85 and Over,76
+2018,1-026-Neplasms(C00-D48),1-035-Malignant melanoma of skin(C43),F,40 - 49,1
+2018,1-026-Neplasms(C00-D48),1-035-Malignant melanoma of skin(C43),F,50 - 59,1
+2018,1-026-Neplasms(C00-D48),1-035-Malignant melanoma of skin(C43),F,65 - 69,4
+2018,1-026-Neplasms(C00-D48),1-035-Malignant melanoma of skin(C43),F,70 - 74,1
+2018,1-026-Neplasms(C00-D48),1-035-Malignant melanoma of skin(C43),F,75 - 79,2
+2018,1-026-Neplasms(C00-D48),1-035-Malignant melanoma of skin(C43),F,85 and Over,2
+2018,1-026-Neplasms(C00-D48),1-036-Malignant neoplasm of breast(C50),F,20 - 29,1
+2018,1-026-Neplasms(C00-D48),1-036-Malignant neoplasm of breast(C50),F,30 - 39,17
+2018,1-026-Neplasms(C00-D48),1-036-Malignant neoplasm of breast(C50),F,40 - 49,47
+2018,1-026-Neplasms(C00-D48),1-036-Malignant neoplasm of breast(C50),F,50 - 59,124
+2018,1-026-Neplasms(C00-D48),1-036-Malignant neoplasm of breast(C50),F,60 - 64,63
+2018,1-026-Neplasms(C00-D48),1-036-Malignant neoplasm of breast(C50),F,65 - 69,74
+2018,1-026-Neplasms(C00-D48),1-036-Malignant neoplasm of breast(C50),F,70 - 74,55
+2018,1-026-Neplasms(C00-D48),1-036-Malignant neoplasm of breast(C50),F,75 - 79,41
+2018,1-026-Neplasms(C00-D48),1-036-Malignant neoplasm of breast(C50),F,80 - 84,37
+2018,1-026-Neplasms(C00-D48),1-036-Malignant neoplasm of breast(C50),F,85 and Over,33
+2018,1-026-Neplasms(C00-D48),1-037-Malignant neoplasm of cervix uteri(C53),F,30 - 39,1
+2018,1-026-Neplasms(C00-D48),1-037-Malignant neoplasm of cervix uteri(C53),F,40 - 49,9
+2018,1-026-Neplasms(C00-D48),1-037-Malignant neoplasm of cervix uteri(C53),F,50 - 59,22
+2018,1-026-Neplasms(C00-D48),1-037-Malignant neoplasm of cervix uteri(C53),F,60 - 64,4
+2018,1-026-Neplasms(C00-D48),1-037-Malignant neoplasm of cervix uteri(C53),F,65 - 69,8
+2018,1-026-Neplasms(C00-D48),1-037-Malignant neoplasm of cervix uteri(C53),F,70 - 74,4
+2018,1-026-Neplasms(C00-D48),1-037-Malignant neoplasm of cervix uteri(C53),F,75 - 79,10
+2018,1-026-Neplasms(C00-D48),1-037-Malignant neoplasm of cervix uteri(C53),F,80 - 84,2
+2018,1-026-Neplasms(C00-D48),1-037-Malignant neoplasm of cervix uteri(C53),F,85 and Over,5
+2018,1-026-Neplasms(C00-D48),1-038-Malignant neoplasm of other and unspecified parts of uterus(C54-C55),F,30 - 39,1
+2018,1-026-Neplasms(C00-D48),1-038-Malignant neoplasm of other and unspecified parts of uterus(C54-C55),F,40 - 49,6
+2018,1-026-Neplasms(C00-D48),1-038-Malignant neoplasm of other and unspecified parts of uterus(C54-C55),F,50 - 59,27
+2018,1-026-Neplasms(C00-D48),1-038-Malignant neoplasm of other and unspecified parts of uterus(C54-C55),F,60 - 64,11
+2018,1-026-Neplasms(C00-D48),1-038-Malignant neoplasm of other and unspecified parts of uterus(C54-C55),F,65 - 69,14
+2018,1-026-Neplasms(C00-D48),1-038-Malignant neoplasm of other and unspecified parts of uterus(C54-C55),F,70 - 74,13
+2018,1-026-Neplasms(C00-D48),1-038-Malignant neoplasm of other and unspecified parts of uterus(C54-C55),F,75 - 79,8
+2018,1-026-Neplasms(C00-D48),1-038-Malignant neoplasm of other and unspecified parts of uterus(C54-C55),F,80 - 84,5
+2018,1-026-Neplasms(C00-D48),1-038-Malignant neoplasm of other and unspecified parts of uterus(C54-C55),F,85 and Over,13
+2018,1-026-Neplasms(C00-D48),1-039-Malignant neoplasm of ovary(C56),F,20 - 29,1
+2018,1-026-Neplasms(C00-D48),1-039-Malignant neoplasm of ovary(C56),F,30 - 39,1
+2018,1-026-Neplasms(C00-D48),1-039-Malignant neoplasm of ovary(C56),F,40 - 49,12
+2018,1-026-Neplasms(C00-D48),1-039-Malignant neoplasm of ovary(C56),F,50 - 59,33
+2018,1-026-Neplasms(C00-D48),1-039-Malignant neoplasm of ovary(C56),F,60 - 64,14
+2018,1-026-Neplasms(C00-D48),1-039-Malignant neoplasm of ovary(C56),F,65 - 69,9
+2018,1-026-Neplasms(C00-D48),1-039-Malignant neoplasm of ovary(C56),F,70 - 74,14
+2018,1-026-Neplasms(C00-D48),1-039-Malignant neoplasm of ovary(C56),F,75 - 79,15
+2018,1-026-Neplasms(C00-D48),1-039-Malignant neoplasm of ovary(C56),F,80 - 84,14
+2018,1-026-Neplasms(C00-D48),1-039-Malignant neoplasm of ovary(C56),F,85 and Over,15
+2018,1-026-Neplasms(C00-D48),1-041-Malignant neoplasm of bladder(C67),F,30 - 39,1
+2018,1-026-Neplasms(C00-D48),1-041-Malignant neoplasm of bladder(C67),F,50 - 59,1
+2018,1-026-Neplasms(C00-D48),1-041-Malignant neoplasm of bladder(C67),F,60 - 64,1
+2018,1-026-Neplasms(C00-D48),1-041-Malignant neoplasm of bladder(C67),F,65 - 69,4
+2018,1-026-Neplasms(C00-D48),1-041-Malignant neoplasm of bladder(C67),F,70 - 74,4
+2018,1-026-Neplasms(C00-D48),1-041-Malignant neoplasm of bladder(C67),F,75 - 79,4
+2018,1-026-Neplasms(C00-D48),1-041-Malignant neoplasm of bladder(C67),F,80 - 84,6
+2018,1-026-Neplasms(C00-D48),1-041-Malignant neoplasm of bladder(C67),F,85 and Over,10
+2018,1-026-Neplasms(C00-D48),"1-042-Malignant neoplasm of meninges, brain and other parts of central nervous system(C70-C72)",F,05 - 09,3
+2018,1-026-Neplasms(C00-D48),"1-042-Malignant neoplasm of meninges, brain and other parts of central nervous system(C70-C72)",F,10 - 19,1
+2018,1-026-Neplasms(C00-D48),"1-042-Malignant neoplasm of meninges, brain and other parts of central nervous system(C70-C72)",F,20 - 29,1
+2018,1-026-Neplasms(C00-D48),"1-042-Malignant neoplasm of meninges, brain and other parts of central nervous system(C70-C72)",F,40 - 49,2
+2018,1-026-Neplasms(C00-D48),"1-042-Malignant neoplasm of meninges, brain and other parts of central nervous system(C70-C72)",F,50 - 59,7
+2018,1-026-Neplasms(C00-D48),"1-042-Malignant neoplasm of meninges, brain and other parts of central nervous system(C70-C72)",F,60 - 64,7
+2018,1-026-Neplasms(C00-D48),"1-042-Malignant neoplasm of meninges, brain and other parts of central nervous system(C70-C72)",F,65 - 69,4
+2018,1-026-Neplasms(C00-D48),"1-042-Malignant neoplasm of meninges, brain and other parts of central nervous system(C70-C72)",F,70 - 74,7
+2018,1-026-Neplasms(C00-D48),"1-042-Malignant neoplasm of meninges, brain and other parts of central nervous system(C70-C72)",F,75 - 79,2
+2018,1-026-Neplasms(C00-D48),"1-042-Malignant neoplasm of meninges, brain and other parts of central nervous system(C70-C72)",F,80 - 84,6
+2018,1-026-Neplasms(C00-D48),"1-042-Malignant neoplasm of meninges, brain and other parts of central nervous system(C70-C72)",F,85 and Over,9
+2018,1-026-Neplasms(C00-D48),1-043-Non-Hodgkins lymphoma(C82-C85)),F,20 - 29,1
+2018,1-026-Neplasms(C00-D48),1-043-Non-Hodgkins lymphoma(C82-C85)),F,30 - 39,4
+2018,1-026-Neplasms(C00-D48),1-043-Non-Hodgkins lymphoma(C82-C85)),F,40 - 49,4
+2018,1-026-Neplasms(C00-D48),1-043-Non-Hodgkins lymphoma(C82-C85)),F,50 - 59,11
+2018,1-026-Neplasms(C00-D48),1-043-Non-Hodgkins lymphoma(C82-C85)),F,60 - 64,10
+2018,1-026-Neplasms(C00-D48),1-043-Non-Hodgkins lymphoma(C82-C85)),F,65 - 69,11
+2018,1-026-Neplasms(C00-D48),1-043-Non-Hodgkins lymphoma(C82-C85)),F,70 - 74,12
+2018,1-026-Neplasms(C00-D48),1-043-Non-Hodgkins lymphoma(C82-C85)),F,75 - 79,10
+2018,1-026-Neplasms(C00-D48),1-043-Non-Hodgkins lymphoma(C82-C85)),F,80 - 84,5
+2018,1-026-Neplasms(C00-D48),1-043-Non-Hodgkins lymphoma(C82-C85)),F,85 and Over,6
+2018,1-026-Neplasms(C00-D48),1-044-Multiple myeloma and malignant plasma cell neoplasms(C90),F,40 - 49,1
+2018,1-026-Neplasms(C00-D48),1-044-Multiple myeloma and malignant plasma cell neoplasms(C90),F,50 - 59,2
+2018,1-026-Neplasms(C00-D48),1-044-Multiple myeloma and malignant plasma cell neoplasms(C90),F,60 - 64,2
+2018,1-026-Neplasms(C00-D48),1-044-Multiple myeloma and malignant plasma cell neoplasms(C90),F,65 - 69,6
+2018,1-026-Neplasms(C00-D48),1-044-Multiple myeloma and malignant plasma cell neoplasms(C90),F,70 - 74,4
+2018,1-026-Neplasms(C00-D48),1-044-Multiple myeloma and malignant plasma cell neoplasms(C90),F,75 - 79,3
+2018,1-026-Neplasms(C00-D48),1-044-Multiple myeloma and malignant plasma cell neoplasms(C90),F,80 - 84,3
+2018,1-026-Neplasms(C00-D48),1-044-Multiple myeloma and malignant plasma cell neoplasms(C90),F,85 and Over,4
+2018,1-026-Neplasms(C00-D48),1-045-Leukaemia(C91-C95),F,05 - 09,2
+2018,1-026-Neplasms(C00-D48),1-045-Leukaemia(C91-C95),F,10 - 19,2
+2018,1-026-Neplasms(C00-D48),1-045-Leukaemia(C91-C95),F,20 - 29,2
+2018,1-026-Neplasms(C00-D48),1-045-Leukaemia(C91-C95),F,30 - 39,3
+2018,1-026-Neplasms(C00-D48),1-045-Leukaemia(C91-C95),F,40 - 49,6
+2018,1-026-Neplasms(C00-D48),1-045-Leukaemia(C91-C95),F,50 - 59,6
+2018,1-026-Neplasms(C00-D48),1-045-Leukaemia(C91-C95),F,60 - 64,6
+2018,1-026-Neplasms(C00-D48),1-045-Leukaemia(C91-C95),F,65 - 69,7
+2018,1-026-Neplasms(C00-D48),1-045-Leukaemia(C91-C95),F,70 - 74,8
+2018,1-026-Neplasms(C00-D48),1-045-Leukaemia(C91-C95),F,75 - 79,8
+2018,1-026-Neplasms(C00-D48),1-045-Leukaemia(C91-C95),F,80 - 84,8
+2018,1-026-Neplasms(C00-D48),1-045-Leukaemia(C91-C95),F,85 and Over,6
+2018,1-026-Neplasms(C00-D48),1-046-Remainder of malignant neoplasms,F,20 - 29,2
+2018,1-026-Neplasms(C00-D48),1-046-Remainder of malignant neoplasms,F,30 - 39,5
+2018,1-026-Neplasms(C00-D48),1-046-Remainder of malignant neoplasms,F,40 - 49,13
+2018,1-026-Neplasms(C00-D48),1-046-Remainder of malignant neoplasms,F,50 - 59,32
+2018,1-026-Neplasms(C00-D48),1-046-Remainder of malignant neoplasms,F,60 - 64,34
+2018,1-026-Neplasms(C00-D48),1-046-Remainder of malignant neoplasms,F,65 - 69,25
+2018,1-026-Neplasms(C00-D48),1-046-Remainder of malignant neoplasms,F,70 - 74,34
+2018,1-026-Neplasms(C00-D48),1-046-Remainder of malignant neoplasms,F,75 - 79,39
+2018,1-026-Neplasms(C00-D48),1-046-Remainder of malignant neoplasms,F,80 - 84,47
+2018,1-026-Neplasms(C00-D48),1-046-Remainder of malignant neoplasms,F,85 and Over,64
+2018,1-026-Neplasms(C00-D48),1-047-Remainder of neoplasms(D00-D48),F,50 - 59,3
+2018,1-026-Neplasms(C00-D48),1-047-Remainder of neoplasms(D00-D48),F,60 - 64,4
+2018,1-026-Neplasms(C00-D48),1-047-Remainder of neoplasms(D00-D48),F,65 - 69,5
+2018,1-026-Neplasms(C00-D48),1-047-Remainder of neoplasms(D00-D48),F,70 - 74,8
+2018,1-026-Neplasms(C00-D48),1-047-Remainder of neoplasms(D00-D48),F,75 - 79,5
+2018,1-026-Neplasms(C00-D48),1-047-Remainder of neoplasms(D00-D48),F,80 - 84,6
+2018,1-026-Neplasms(C00-D48),1-047-Remainder of neoplasms(D00-D48),F,85 and Over,7
+2018,"1-048-Diseases of the blood and blood-forming organs and					certain disorders involving the immune mechanism(D50-D89)",1-049-Anaemias(D50-D64),F,03,1
+2018,"1-048-Diseases of the blood and blood-forming organs and					certain disorders involving the immune mechanism(D50-D89)",1-049-Anaemias(D50-D64),F,30 - 39,1
+2018,"1-048-Diseases of the blood and blood-forming organs and					certain disorders involving the immune mechanism(D50-D89)",1-049-Anaemias(D50-D64),F,50 - 59,1
+2018,"1-048-Diseases of the blood and blood-forming organs and					certain disorders involving the immune mechanism(D50-D89)",1-049-Anaemias(D50-D64),F,65 - 69,1
+2018,"1-048-Diseases of the blood and blood-forming organs and					certain disorders involving the immune mechanism(D50-D89)",1-049-Anaemias(D50-D64),F,70 - 74,1
+2018,"1-048-Diseases of the blood and blood-forming organs and					certain disorders involving the immune mechanism(D50-D89)",1-049-Anaemias(D50-D64),F,75 - 79,1
+2018,"1-048-Diseases of the blood and blood-forming organs and					certain disorders involving the immune mechanism(D50-D89)",1-049-Anaemias(D50-D64),F,80 - 84,1
+2018,"1-048-Diseases of the blood and blood-forming organs and					certain disorders involving the immune mechanism(D50-D89)",1-049-Anaemias(D50-D64),F,85 and Over,1
+2018,"1-048-Diseases of the blood and blood-forming organs and					certain disorders involving the immune mechanism(D50-D89)","1-050-Remainder of diseases of the blood and blood-forming		organs and certain disorders involving the immune mechanism(D65-D89)",F,05 - 09,1
+2018,"1-048-Diseases of the blood and blood-forming organs and					certain disorders involving the immune mechanism(D50-D89)","1-050-Remainder of diseases of the blood and blood-forming		organs and certain disorders involving the immune mechanism(D65-D89)",F,10 - 19,1
+2018,"1-048-Diseases of the blood and blood-forming organs and					certain disorders involving the immune mechanism(D50-D89)","1-050-Remainder of diseases of the blood and blood-forming		organs and certain disorders involving the immune mechanism(D65-D89)",F,40 - 49,2
+2018,"1-048-Diseases of the blood and blood-forming organs and					certain disorders involving the immune mechanism(D50-D89)","1-050-Remainder of diseases of the blood and blood-forming		organs and certain disorders involving the immune mechanism(D65-D89)",F,60 - 64,1
+2018,"1-048-Diseases of the blood and blood-forming organs and					certain disorders involving the immune mechanism(D50-D89)","1-050-Remainder of diseases of the blood and blood-forming		organs and certain disorders involving the immune mechanism(D65-D89)",F,65 - 69,2
+2018,"1-048-Diseases of the blood and blood-forming organs and					certain disorders involving the immune mechanism(D50-D89)","1-050-Remainder of diseases of the blood and blood-forming		organs and certain disorders involving the immune mechanism(D65-D89)",F,70 - 74,1
+2018,"1-048-Diseases of the blood and blood-forming organs and					certain disorders involving the immune mechanism(D50-D89)","1-050-Remainder of diseases of the blood and blood-forming		organs and certain disorders involving the immune mechanism(D65-D89)",F,85 and Over,2
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)",1-052-Diabetes mellitus(E10-E14),F,30 - 39,1
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)",1-052-Diabetes mellitus(E10-E14),F,40 - 49,2
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)",1-052-Diabetes mellitus(E10-E14),F,50 - 59,7
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)",1-052-Diabetes mellitus(E10-E14),F,60 - 64,11
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)",1-052-Diabetes mellitus(E10-E14),F,65 - 69,15
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)",1-052-Diabetes mellitus(E10-E14),F,70 - 74,18
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)",1-052-Diabetes mellitus(E10-E14),F,75 - 79,23
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)",1-052-Diabetes mellitus(E10-E14),F,80 - 84,29
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)",1-052-Diabetes mellitus(E10-E14),F,85 and Over,49
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)","1-054-Remainder of endocrine, nutritional and metabolic diseases",F,05 - 09,1
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)","1-054-Remainder of endocrine, nutritional and metabolic diseases",F,30 - 39,1
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)","1-054-Remainder of endocrine, nutritional and metabolic diseases",F,60 - 64,1
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)","1-054-Remainder of endocrine, nutritional and metabolic diseases",F,70 - 74,1
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)","1-054-Remainder of endocrine, nutritional and metabolic diseases",F,75 - 79,1
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)","1-054-Remainder of endocrine, nutritional and metabolic diseases",F,80 - 84,2
+2018,1-055-Mental and behavioural disorders(F01-F99),"1-057-Remainder of mental and behavioural disorders(F01-F09,F20-F99)",F,20 - 29,1
+2018,1-055-Mental and behavioural disorders(F01-F99),"1-057-Remainder of mental and behavioural disorders(F01-F09,F20-F99)",F,85 and Over,1
+2018,1-058-Diseases of the nervous system(G00-G98),"1-059-Meningitis(G00,G03)",F,65 - 69,1
+2018,1-058-Diseases of the nervous system(G00-G98),"1-059-Meningitis(G00,G03)",F,85 and Over,1
+2018,1-058-Diseases of the nervous system(G00-G98),1-060-Alzheimers disease(G30),F,60 - 64,1
+2018,1-058-Diseases of the nervous system(G00-G98),1-060-Alzheimers disease(G30),F,80 - 84,2
+2018,1-058-Diseases of the nervous system(G00-G98),1-060-Alzheimers disease(G30),F,85 and Over,12
+2018,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",F,03,1
+2018,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",F,05 - 09,3
+2018,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",F,20 - 29,2
+2018,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",F,30 - 39,2
+2018,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",F,40 - 49,5
+2018,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",F,50 - 59,11
+2018,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",F,60 - 64,5
+2018,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",F,65 - 69,7
+2018,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",F,70 - 74,6
+2018,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",F,75 - 79,13
+2018,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",F,80 - 84,11
+2018,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",F,85 and Over,23
+2018,1-062-Diseases of the eye and adnexa(H00-H57),1-062-Diseases of the eye and adnexa(H00-H57),F,80 - 84,1
+2018,1-063-Diseases of the ear and mastoid process(H60-H93),1-063-Diseases of the ear and mastoid process(H60-H93),F,28 days - under 1 years,1
+2018,1-063-Diseases of the ear and mastoid process(H60-H93),1-063-Diseases of the ear and mastoid process(H60-H93),F,50 - 59,1
+2018,1-063-Diseases of the ear and mastoid process(H60-H93),1-063-Diseases of the ear and mastoid process(H60-H93),F,75 - 79,1
+2018,1-064-Diseases of the circulatory system(I00-I99),1-065-Acute rheumatic fever and chronic rheumatic heart diseases(I00-I09),F,60 - 64,1
+2018,1-064-Diseases of the circulatory system(I00-I99),1-065-Acute rheumatic fever and chronic rheumatic heart diseases(I00-I09),F,65 - 69,2
+2018,1-064-Diseases of the circulatory system(I00-I99),1-065-Acute rheumatic fever and chronic rheumatic heart diseases(I00-I09),F,70 - 74,2
+2018,1-064-Diseases of the circulatory system(I00-I99),1-065-Acute rheumatic fever and chronic rheumatic heart diseases(I00-I09),F,75 - 79,5
+2018,1-064-Diseases of the circulatory system(I00-I99),1-065-Acute rheumatic fever and chronic rheumatic heart diseases(I00-I09),F,80 - 84,5
+2018,1-064-Diseases of the circulatory system(I00-I99),1-066-Hypertensive diseases(I10-I13),F,20 - 29,1
+2018,1-064-Diseases of the circulatory system(I00-I99),1-066-Hypertensive diseases(I10-I13),F,30 - 39,1
+2018,1-064-Diseases of the circulatory system(I00-I99),1-066-Hypertensive diseases(I10-I13),F,40 - 49,8
+2018,1-064-Diseases of the circulatory system(I00-I99),1-066-Hypertensive diseases(I10-I13),F,50 - 59,15
+2018,1-064-Diseases of the circulatory system(I00-I99),1-066-Hypertensive diseases(I10-I13),F,60 - 64,21
+2018,1-064-Diseases of the circulatory system(I00-I99),1-066-Hypertensive diseases(I10-I13),F,65 - 69,33
+2018,1-064-Diseases of the circulatory system(I00-I99),1-066-Hypertensive diseases(I10-I13),F,70 - 74,26
+2018,1-064-Diseases of the circulatory system(I00-I99),1-066-Hypertensive diseases(I10-I13),F,75 - 79,40
+2018,1-064-Diseases of the circulatory system(I00-I99),1-066-Hypertensive diseases(I10-I13),F,80 - 84,44
+2018,1-064-Diseases of the circulatory system(I00-I99),1-066-Hypertensive diseases(I10-I13),F,85 and Over,96
+2018,1-064-Diseases of the circulatory system(I00-I99),1-067-Ischaemic heart diseases(I20-I25),F,30 - 39,6
+2018,1-064-Diseases of the circulatory system(I00-I99),1-067-Ischaemic heart diseases(I20-I25),F,40 - 49,18
+2018,1-064-Diseases of the circulatory system(I00-I99),1-067-Ischaemic heart diseases(I20-I25),F,50 - 59,64
+2018,1-064-Diseases of the circulatory system(I00-I99),1-067-Ischaemic heart diseases(I20-I25),F,60 - 64,88
+2018,1-064-Diseases of the circulatory system(I00-I99),1-067-Ischaemic heart diseases(I20-I25),F,65 - 69,90
+2018,1-064-Diseases of the circulatory system(I00-I99),1-067-Ischaemic heart diseases(I20-I25),F,70 - 74,129
+2018,1-064-Diseases of the circulatory system(I00-I99),1-067-Ischaemic heart diseases(I20-I25),F,75 - 79,198
+2018,1-064-Diseases of the circulatory system(I00-I99),1-067-Ischaemic heart diseases(I20-I25),F,80 - 84,254
+2018,1-064-Diseases of the circulatory system(I00-I99),1-067-Ischaemic heart diseases(I20-I25),F,85 and Over,591
+2018,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),F,01,2
+2018,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),F,02,1
+2018,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),F,05 - 09,2
+2018,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),F,20 - 29,1
+2018,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),F,30 - 39,8
+2018,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),F,40 - 49,9
+2018,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),F,50 - 59,18
+2018,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),F,60 - 64,14
+2018,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),F,65 - 69,10
+2018,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),F,70 - 74,19
+2018,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),F,75 - 79,28
+2018,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),F,80 - 84,30
+2018,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),F,85 and Over,70
+2018,1-064-Diseases of the circulatory system(I00-I99),1-069-Cerebrovascular diseases(I60-I69),F,02,1
+2018,1-064-Diseases of the circulatory system(I00-I99),1-069-Cerebrovascular diseases(I60-I69),F,20 - 29,2
+2018,1-064-Diseases of the circulatory system(I00-I99),1-069-Cerebrovascular diseases(I60-I69),F,30 - 39,8
+2018,1-064-Diseases of the circulatory system(I00-I99),1-069-Cerebrovascular diseases(I60-I69),F,40 - 49,20
+2018,1-064-Diseases of the circulatory system(I00-I99),1-069-Cerebrovascular diseases(I60-I69),F,50 - 59,31
+2018,1-064-Diseases of the circulatory system(I00-I99),1-069-Cerebrovascular diseases(I60-I69),F,60 - 64,34
+2018,1-064-Diseases of the circulatory system(I00-I99),1-069-Cerebrovascular diseases(I60-I69),F,65 - 69,44
+2018,1-064-Diseases of the circulatory system(I00-I99),1-069-Cerebrovascular diseases(I60-I69),F,70 - 74,53
+2018,1-064-Diseases of the circulatory system(I00-I99),1-069-Cerebrovascular diseases(I60-I69),F,75 - 79,85
+2018,1-064-Diseases of the circulatory system(I00-I99),1-069-Cerebrovascular diseases(I60-I69),F,80 - 84,121
+2018,1-064-Diseases of the circulatory system(I00-I99),1-069-Cerebrovascular diseases(I60-I69),F,85 and Over,286
+2018,1-064-Diseases of the circulatory system(I00-I99),1-070-Atherosclerosis(I71),F,65 - 69,1
+2018,1-064-Diseases of the circulatory system(I00-I99),1-070-Atherosclerosis(I71),F,70 - 74,3
+2018,1-064-Diseases of the circulatory system(I00-I99),1-070-Atherosclerosis(I71),F,75 - 79,1
+2018,1-064-Diseases of the circulatory system(I00-I99),1-070-Atherosclerosis(I71),F,80 - 84,3
+2018,1-064-Diseases of the circulatory system(I00-I99),1-070-Atherosclerosis(I71),F,85 and Over,9
+2018,1-064-Diseases of the circulatory system(I00-I99),1-071-Remainder of diseases of the circulatory system(I71-I99),F,10 - 19,1
+2018,1-064-Diseases of the circulatory system(I00-I99),1-071-Remainder of diseases of the circulatory system(I71-I99),F,40 - 49,2
+2018,1-064-Diseases of the circulatory system(I00-I99),1-071-Remainder of diseases of the circulatory system(I71-I99),F,60 - 64,2
+2018,1-064-Diseases of the circulatory system(I00-I99),1-071-Remainder of diseases of the circulatory system(I71-I99),F,65 - 69,3
+2018,1-064-Diseases of the circulatory system(I00-I99),1-071-Remainder of diseases of the circulatory system(I71-I99),F,70 - 74,5
+2018,1-064-Diseases of the circulatory system(I00-I99),1-071-Remainder of diseases of the circulatory system(I71-I99),F,75 - 79,24
+2018,1-064-Diseases of the circulatory system(I00-I99),1-071-Remainder of diseases of the circulatory system(I71-I99),F,80 - 84,16
+2018,1-064-Diseases of the circulatory system(I00-I99),1-071-Remainder of diseases of the circulatory system(I71-I99),F,85 and Over,41
+2018,1-072-Diseases of the respiratory system(J00-J98),1-073-Influenza(J09-J11),F,70 - 74,1
+2018,1-072-Diseases of the respiratory system(J00-J98),1-073-Influenza(J09-J11),F,75 - 79,1
+2018,1-072-Diseases of the respiratory system(J00-J98),1-073-Influenza(J09-J11),F,85 and Over,2
+2018,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),F,01,1
+2018,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),F,10 - 19,2
+2018,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),F,20 - 29,1
+2018,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),F,28 days - under 1 years,3
+2018,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),F,30 - 39,9
+2018,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),F,40 - 49,19
+2018,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),F,50 - 59,43
+2018,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),F,60 - 64,61
+2018,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),F,65 - 69,74
+2018,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),F,70 - 74,125
+2018,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),F,75 - 79,221
+2018,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),F,80 - 84,367
+2018,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),F,85 and Over,1271
+2018,1-072-Diseases of the respiratory system(J00-J98),1-075-Other acute lower respiratory infections(J20-J22),F,28 days - under 1 years,1
+2018,1-072-Diseases of the respiratory system(J00-J98),1-075-Other acute lower respiratory infections(J20-J22),F,65 - 69,1
+2018,1-072-Diseases of the respiratory system(J00-J98),1-076-Chronic lower respiratory diseases(J40-J47),F,10 - 19,1
+2018,1-072-Diseases of the respiratory system(J00-J98),1-076-Chronic lower respiratory diseases(J40-J47),F,20 - 29,1
+2018,1-072-Diseases of the respiratory system(J00-J98),1-076-Chronic lower respiratory diseases(J40-J47),F,30 - 39,1
+2018,1-072-Diseases of the respiratory system(J00-J98),1-076-Chronic lower respiratory diseases(J40-J47),F,40 - 49,8
+2018,1-072-Diseases of the respiratory system(J00-J98),1-076-Chronic lower respiratory diseases(J40-J47),F,50 - 59,6
+2018,1-072-Diseases of the respiratory system(J00-J98),1-076-Chronic lower respiratory diseases(J40-J47),F,60 - 64,3
+2018,1-072-Diseases of the respiratory system(J00-J98),1-076-Chronic lower respiratory diseases(J40-J47),F,65 - 69,11
+2018,1-072-Diseases of the respiratory system(J00-J98),1-076-Chronic lower respiratory diseases(J40-J47),F,70 - 74,11
+2018,1-072-Diseases of the respiratory system(J00-J98),1-076-Chronic lower respiratory diseases(J40-J47),F,75 - 79,15
+2018,1-072-Diseases of the respiratory system(J00-J98),1-076-Chronic lower respiratory diseases(J40-J47),F,80 - 84,14
+2018,1-072-Diseases of the respiratory system(J00-J98),1-076-Chronic lower respiratory diseases(J40-J47),F,85 and Over,40
+2018,1-072-Diseases of the respiratory system(J00-J98),1-077-Remainder of diseases of the respiratory system,F,28 days - under 1 years,1
+2018,1-072-Diseases of the respiratory system(J00-J98),1-077-Remainder of diseases of the respiratory system,F,50 - 59,4
+2018,1-072-Diseases of the respiratory system(J00-J98),1-077-Remainder of diseases of the respiratory system,F,60 - 64,5
+2018,1-072-Diseases of the respiratory system(J00-J98),1-077-Remainder of diseases of the respiratory system,F,65 - 69,5
+2018,1-072-Diseases of the respiratory system(J00-J98),1-077-Remainder of diseases of the respiratory system,F,70 - 74,5
+2018,1-072-Diseases of the respiratory system(J00-J98),1-077-Remainder of diseases of the respiratory system,F,75 - 79,14
+2018,1-072-Diseases of the respiratory system(J00-J98),1-077-Remainder of diseases of the respiratory system,F,80 - 84,10
+2018,1-072-Diseases of the respiratory system(J00-J98),1-077-Remainder of diseases of the respiratory system,F,85 and Over,11
+2018,1-078-Diseases of the digestive system(K00-K92),1-079-Gastric and duodenal ulcer(K25-K27),F,50 - 59,1
+2018,1-078-Diseases of the digestive system(K00-K92),1-079-Gastric and duodenal ulcer(K25-K27),F,70 - 74,1
+2018,1-078-Diseases of the digestive system(K00-K92),1-079-Gastric and duodenal ulcer(K25-K27),F,75 - 79,2
+2018,1-078-Diseases of the digestive system(K00-K92),1-079-Gastric and duodenal ulcer(K25-K27),F,80 - 84,2
+2018,1-078-Diseases of the digestive system(K00-K92),1-079-Gastric and duodenal ulcer(K25-K27),F,85 and Over,8
+2018,1-078-Diseases of the digestive system(K00-K92),1-080-Diseases of the liver(K70-K76),F,02,1
+2018,1-078-Diseases of the digestive system(K00-K92),1-080-Diseases of the liver(K70-K76),F,20 - 29,1
+2018,1-078-Diseases of the digestive system(K00-K92),1-080-Diseases of the liver(K70-K76),F,30 - 39,1
+2018,1-078-Diseases of the digestive system(K00-K92),1-080-Diseases of the liver(K70-K76),F,40 - 49,2
+2018,1-078-Diseases of the digestive system(K00-K92),1-080-Diseases of the liver(K70-K76),F,50 - 59,6
+2018,1-078-Diseases of the digestive system(K00-K92),1-080-Diseases of the liver(K70-K76),F,60 - 64,6
+2018,1-078-Diseases of the digestive system(K00-K92),1-080-Diseases of the liver(K70-K76),F,65 - 69,4
+2018,1-078-Diseases of the digestive system(K00-K92),1-080-Diseases of the liver(K70-K76),F,70 - 74,8
+2018,1-078-Diseases of the digestive system(K00-K92),1-080-Diseases of the liver(K70-K76),F,75 - 79,14
+2018,1-078-Diseases of the digestive system(K00-K92),1-080-Diseases of the liver(K70-K76),F,80 - 84,18
+2018,1-078-Diseases of the digestive system(K00-K92),1-080-Diseases of the liver(K70-K76),F,85 and Over,18
+2018,1-078-Diseases of the digestive system(K00-K92),1-081-Remainder of diseases of the digestive system,F,20 - 29,3
+2018,1-078-Diseases of the digestive system(K00-K92),1-081-Remainder of diseases of the digestive system,F,30 - 39,1
+2018,1-078-Diseases of the digestive system(K00-K92),1-081-Remainder of diseases of the digestive system,F,40 - 49,3
+2018,1-078-Diseases of the digestive system(K00-K92),1-081-Remainder of diseases of the digestive system,F,50 - 59,7
+2018,1-078-Diseases of the digestive system(K00-K92),1-081-Remainder of diseases of the digestive system,F,60 - 64,7
+2018,1-078-Diseases of the digestive system(K00-K92),1-081-Remainder of diseases of the digestive system,F,65 - 69,8
+2018,1-078-Diseases of the digestive system(K00-K92),1-081-Remainder of diseases of the digestive system,F,70 - 74,15
+2018,1-078-Diseases of the digestive system(K00-K92),1-081-Remainder of diseases of the digestive system,F,75 - 79,18
+2018,1-078-Diseases of the digestive system(K00-K92),1-081-Remainder of diseases of the digestive system,F,80 - 84,30
+2018,1-078-Diseases of the digestive system(K00-K92),1-081-Remainder of diseases of the digestive system,F,85 and Over,68
+2018,1-082-Diseases of the skin and subcutaneous tissue(L00-L98),1-082-Diseases of the skin and subcutaneous tissue(L00-L98),F,60 - 64,3
+2018,1-082-Diseases of the skin and subcutaneous tissue(L00-L98),1-082-Diseases of the skin and subcutaneous tissue(L00-L98),F,65 - 69,3
+2018,1-082-Diseases of the skin and subcutaneous tissue(L00-L98),1-082-Diseases of the skin and subcutaneous tissue(L00-L98),F,70 - 74,7
+2018,1-082-Diseases of the skin and subcutaneous tissue(L00-L98),1-082-Diseases of the skin and subcutaneous tissue(L00-L98),F,75 - 79,7
+2018,1-082-Diseases of the skin and subcutaneous tissue(L00-L98),1-082-Diseases of the skin and subcutaneous tissue(L00-L98),F,80 - 84,9
+2018,1-082-Diseases of the skin and subcutaneous tissue(L00-L98),1-082-Diseases of the skin and subcutaneous tissue(L00-L98),F,85 and Over,53
+2018,1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),F,30 - 39,1
+2018,1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),F,40 - 49,2
+2018,1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),F,50 - 59,4
+2018,1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),F,60 - 64,5
+2018,1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),F,65 - 69,4
+2018,1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),F,70 - 74,7
+2018,1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),F,75 - 79,6
+2018,1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),F,80 - 84,10
+2018,1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),F,85 and Over,24
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-085-Glomerular and renal tubulo-interstitial diseases(N00-N15),F,20 - 29,1
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-085-Glomerular and renal tubulo-interstitial diseases(N00-N15),F,30 - 39,1
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-085-Glomerular and renal tubulo-interstitial diseases(N00-N15),F,40 - 49,1
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-085-Glomerular and renal tubulo-interstitial diseases(N00-N15),F,50 - 59,2
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-085-Glomerular and renal tubulo-interstitial diseases(N00-N15),F,60 - 64,2
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-085-Glomerular and renal tubulo-interstitial diseases(N00-N15),F,65 - 69,2
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-085-Glomerular and renal tubulo-interstitial diseases(N00-N15),F,70 - 74,1
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-085-Glomerular and renal tubulo-interstitial diseases(N00-N15),F,75 - 79,2
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-085-Glomerular and renal tubulo-interstitial diseases(N00-N15),F,80 - 84,3
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-085-Glomerular and renal tubulo-interstitial diseases(N00-N15),F,85 and Over,5
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-086-Remainder of diseases of the genitourinary system(N17-N98),F,10 - 19,1
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-086-Remainder of diseases of the genitourinary system(N17-N98),F,20 - 29,1
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-086-Remainder of diseases of the genitourinary system(N17-N98),F,30 - 39,1
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-086-Remainder of diseases of the genitourinary system(N17-N98),F,40 - 49,4
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-086-Remainder of diseases of the genitourinary system(N17-N98),F,50 - 59,18
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-086-Remainder of diseases of the genitourinary system(N17-N98),F,60 - 64,28
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-086-Remainder of diseases of the genitourinary system(N17-N98),F,65 - 69,39
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-086-Remainder of diseases of the genitourinary system(N17-N98),F,70 - 74,46
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-086-Remainder of diseases of the genitourinary system(N17-N98),F,75 - 79,107
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-086-Remainder of diseases of the genitourinary system(N17-N98),F,80 - 84,137
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-086-Remainder of diseases of the genitourinary system(N17-N98),F,85 and Over,283
+2018,"1-087-Pregnancy, childbirth and the puerperium(O00-O99)",1-088-Pregnancy with abortive outcome(O00-O07),F,30 - 39,1
+2018,"1-087-Pregnancy, childbirth and the puerperium(O00-O99)",1-089-Other direct obstetric deaths(O10-O92),F,20 - 29,1
+2018,"1-087-Pregnancy, childbirth and the puerperium(O00-O99)",1-089-Other direct obstetric deaths(O10-O92),F,30 - 39,1
+2018,"1-087-Pregnancy, childbirth and the puerperium(O00-O99)",1-089-Other direct obstetric deaths(O10-O92),F,40 - 49,1
+2018,1-092-Certain conditions originating in the perinatal period(P00-P96),1-092-Certain conditions originating in the perinatal period(P00-P96),F,28 days - under 1 years,2
+2018,1-092-Certain conditions originating in the perinatal period(P00-P96),1-092-Certain conditions originating in the perinatal period(P00-P96),F,Under 28 days,14
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",F,01,2
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",F,02,1
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",F,05 - 09,1
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",F,10 - 19,2
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",F,20 - 29,1
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",F,28 days - under 1 years,2
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",F,30 - 39,1
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",F,40 - 49,1
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",F,50 - 59,2
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",F,60 - 64,1
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",F,65 - 69,2
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",F,75 - 79,1
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",F,80 - 84,1
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",F,Under 28 days,11
+2018,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",F,02,2
+2018,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",F,04,1
+2018,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",F,10 - 19,1
+2018,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",F,20 - 29,1
+2018,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",F,28 days - under 1 years,2
+2018,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",F,30 - 39,4
+2018,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",F,40 - 49,2
+2018,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",F,50 - 59,5
+2018,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",F,60 - 64,2
+2018,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",F,70 - 74,1
+2018,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",F,75 - 79,2
+2018,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",F,80 - 84,4
+2018,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",F,85 and Over,1
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-096-Transport accidents(V01-V99),F,10 - 19,3
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-096-Transport accidents(V01-V99),F,20 - 29,4
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-096-Transport accidents(V01-V99),F,30 - 39,1
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-096-Transport accidents(V01-V99),F,40 - 49,1
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-096-Transport accidents(V01-V99),F,50 - 59,4
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-096-Transport accidents(V01-V99),F,60 - 64,3
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-096-Transport accidents(V01-V99),F,65 - 69,2
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-096-Transport accidents(V01-V99),F,70 - 74,3
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-096-Transport accidents(V01-V99),F,75 - 79,2
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-096-Transport accidents(V01-V99),F,80 - 84,2
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-097-Falls(W00-W19),F,20 - 29,1
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-097-Falls(W00-W19),F,30 - 39,4
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-097-Falls(W00-W19),F,50 - 59,6
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-097-Falls(W00-W19),F,60 - 64,3
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-097-Falls(W00-W19),F,65 - 69,5
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-097-Falls(W00-W19),F,70 - 74,5
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-097-Falls(W00-W19),F,75 - 79,9
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-097-Falls(W00-W19),F,80 - 84,14
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-097-Falls(W00-W19),F,85 and Over,14
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-098-Accidental drowning and submersion(W65-W74),F,02,1
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-098-Accidental drowning and submersion(W65-W74),F,05 - 09,2
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-098-Accidental drowning and submersion(W65-W74),F,20 - 29,1
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-098-Accidental drowning and submersion(W65-W74),F,80 - 84,1
+2018,1-095-External causes of morbidity and mortality(V01-Y89),"1-099-Exposure to smoke, fire and flames(X00-X09)",F,60 - 64,2
+2018,1-095-External causes of morbidity and mortality(V01-Y89),"1-099-Exposure to smoke, fire and flames(X00-X09)",F,70 - 74,1
+2018,1-095-External causes of morbidity and mortality(V01-Y89),"1-099-Exposure to smoke, fire and flames(X00-X09)",F,80 - 84,1
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-100-Accidental poisoning by and exposure to noxious substances(X40-X49),F,30 - 39,2
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-100-Accidental poisoning by and exposure to noxious substances(X40-X49),F,40 - 49,3
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-100-Accidental poisoning by and exposure to noxious substances(X40-X49),F,60 - 64,1
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-101-Intentional self-harm(X60-X84),F,10 - 19,3
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-101-Intentional self-harm(X60-X84),F,20 - 29,18
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-101-Intentional self-harm(X60-X84),F,30 - 39,22
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-101-Intentional self-harm(X60-X84),F,40 - 49,16
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-101-Intentional self-harm(X60-X84),F,50 - 59,22
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-101-Intentional self-harm(X60-X84),F,60 - 64,5
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-101-Intentional self-harm(X60-X84),F,65 - 69,11
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-101-Intentional self-harm(X60-X84),F,70 - 74,6
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-101-Intentional self-harm(X60-X84),F,75 - 79,6
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-101-Intentional self-harm(X60-X84),F,80 - 84,5
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-102-Assault(X85-Y09),F,50 - 59,1
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-102-Assault(X85-Y09),F,70 - 74,1
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-103-All other external causes,F,05 - 09,1
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-103-All other external causes,F,10 - 19,1
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-103-All other external causes,F,20 - 29,3
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-103-All other external causes,F,30 - 39,6
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-103-All other external causes,F,40 - 49,1
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-103-All other external causes,F,50 - 59,2
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-103-All other external causes,F,60 - 64,5
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-103-All other external causes,F,65 - 69,2
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-103-All other external causes,F,70 - 74,1
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-103-All other external causes,F,75 - 79,2
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-103-All other external causes,F,80 - 84,2
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-103-All other external causes,F,85 and Over,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-003-Diarrhoea and gastroenteritis of presumed infectious origin(A09),M,30 - 39,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-003-Diarrhoea and gastroenteritis of presumed infectious origin(A09),M,40 - 49,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-003-Diarrhoea and gastroenteritis of presumed infectious origin(A09),M,60 - 64,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-003-Diarrhoea and gastroenteritis of presumed infectious origin(A09),M,65 - 69,2
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-003-Diarrhoea and gastroenteritis of presumed infectious origin(A09),M,70 - 74,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-003-Diarrhoea and gastroenteritis of presumed infectious origin(A09),M,75 - 79,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-003-Diarrhoea and gastroenteritis of presumed infectious origin(A09),M,85 and Over,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-004-Other intestinal infectious diseases(A01-A08),M,65 - 69,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-004-Other intestinal infectious diseases(A01-A08),M,75 - 79,2
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-004-Other intestinal infectious diseases(A01-A08),M,85 and Over,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-005-Respiratory tuberculosis(A15-A16),M,40 - 49,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-005-Respiratory tuberculosis(A15-A16),M,50 - 59,4
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-005-Respiratory tuberculosis(A15-A16),M,60 - 64,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-005-Respiratory tuberculosis(A15-A16),M,65 - 69,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-005-Respiratory tuberculosis(A15-A16),M,70 - 74,5
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-005-Respiratory tuberculosis(A15-A16),M,75 - 79,5
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-005-Respiratory tuberculosis(A15-A16),M,80 - 84,4
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-006-Other tuberculosis(A17-A19),M,40 - 49,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-006-Other tuberculosis(A17-A19),M,80 - 84,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-012-Septicaemia(A40-A41),M,10 - 19,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-012-Septicaemia(A40-A41),M,30 - 39,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-012-Septicaemia(A40-A41),M,40 - 49,4
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-012-Septicaemia(A40-A41),M,50 - 59,5
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-012-Septicaemia(A40-A41),M,60 - 64,4
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-012-Septicaemia(A40-A41),M,65 - 69,5
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-012-Septicaemia(A40-A41),M,70 - 74,6
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-012-Septicaemia(A40-A41),M,75 - 79,5
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-012-Septicaemia(A40-A41),M,80 - 84,4
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-012-Septicaemia(A40-A41),M,85 and Over,8
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-012-Septicaemia(A40-A41),M,Under 28 days,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-014-Acute poliomyelitis(A80),M,50 - 59,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),"1-017-Other arthropod-borne viral fevers				and viral haemorrhagic fevers(A90-A94,A96-A99)",M,40 - 49,2
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-019-Viral hepatitis(B15-B19),M,50 - 59,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-019-Viral hepatitis(B15-B19),M,65 - 69,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-019-Viral hepatitis(B15-B19),M,70 - 74,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-020-Human immunodeficiency virus [HIV] disease(B20-B24),M,30 - 39,2
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-020-Human immunodeficiency virus [HIV] disease(B20-B24),M,40 - 49,4
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-020-Human immunodeficiency virus [HIV] disease(B20-B24),M,50 - 59,8
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-020-Human immunodeficiency virus [HIV] disease(B20-B24),M,60 - 64,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-020-Human immunodeficiency virus [HIV] disease(B20-B24),M,65 - 69,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-020-Human immunodeficiency virus [HIV] disease(B20-B24),M,70 - 74,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-020-Human immunodeficiency virus [HIV] disease(B20-B24),M,75 - 79,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-025-Remainder of certain infectious and parasitic diseases,M,03,2
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-025-Remainder of certain infectious and parasitic diseases,M,28 days - under 1 years,2
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-025-Remainder of certain infectious and parasitic diseases,M,30 - 39,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-025-Remainder of certain infectious and parasitic diseases,M,50 - 59,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-025-Remainder of certain infectious and parasitic diseases,M,65 - 69,2
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-025-Remainder of certain infectious and parasitic diseases,M,70 - 74,4
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-025-Remainder of certain infectious and parasitic diseases,M,75 - 79,2
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-025-Remainder of certain infectious and parasitic diseases,M,85 and Over,1
+2018,1-026-Neplasms(C00-D48),"1-027-Malignant neoplasm of lip, oral cavity and pharynx(C00-C14)",M,30 - 39,2
+2018,1-026-Neplasms(C00-D48),"1-027-Malignant neoplasm of lip, oral cavity and pharynx(C00-C14)",M,40 - 49,22
+2018,1-026-Neplasms(C00-D48),"1-027-Malignant neoplasm of lip, oral cavity and pharynx(C00-C14)",M,50 - 59,39
+2018,1-026-Neplasms(C00-D48),"1-027-Malignant neoplasm of lip, oral cavity and pharynx(C00-C14)",M,60 - 64,22
+2018,1-026-Neplasms(C00-D48),"1-027-Malignant neoplasm of lip, oral cavity and pharynx(C00-C14)",M,65 - 69,22
+2018,1-026-Neplasms(C00-D48),"1-027-Malignant neoplasm of lip, oral cavity and pharynx(C00-C14)",M,70 - 74,12
+2018,1-026-Neplasms(C00-D48),"1-027-Malignant neoplasm of lip, oral cavity and pharynx(C00-C14)",M,75 - 79,7
+2018,1-026-Neplasms(C00-D48),"1-027-Malignant neoplasm of lip, oral cavity and pharynx(C00-C14)",M,80 - 84,13
+2018,1-026-Neplasms(C00-D48),"1-027-Malignant neoplasm of lip, oral cavity and pharynx(C00-C14)",M,85 and Over,7
+2018,1-026-Neplasms(C00-D48),1-028-Malignant neoplasm of oesophagus(C15),M,30 - 39,1
+2018,1-026-Neplasms(C00-D48),1-028-Malignant neoplasm of oesophagus(C15),M,40 - 49,3
+2018,1-026-Neplasms(C00-D48),1-028-Malignant neoplasm of oesophagus(C15),M,50 - 59,14
+2018,1-026-Neplasms(C00-D48),1-028-Malignant neoplasm of oesophagus(C15),M,60 - 64,10
+2018,1-026-Neplasms(C00-D48),1-028-Malignant neoplasm of oesophagus(C15),M,65 - 69,14
+2018,1-026-Neplasms(C00-D48),1-028-Malignant neoplasm of oesophagus(C15),M,70 - 74,12
+2018,1-026-Neplasms(C00-D48),1-028-Malignant neoplasm of oesophagus(C15),M,75 - 79,14
+2018,1-026-Neplasms(C00-D48),1-028-Malignant neoplasm of oesophagus(C15),M,80 - 84,11
+2018,1-026-Neplasms(C00-D48),1-028-Malignant neoplasm of oesophagus(C15),M,85 and Over,11
+2018,1-026-Neplasms(C00-D48),1-029-Malignant neoplasm of stomach(C16),M,20 - 29,1
+2018,1-026-Neplasms(C00-D48),1-029-Malignant neoplasm of stomach(C16),M,30 - 39,2
+2018,1-026-Neplasms(C00-D48),1-029-Malignant neoplasm of stomach(C16),M,40 - 49,3
+2018,1-026-Neplasms(C00-D48),1-029-Malignant neoplasm of stomach(C16),M,50 - 59,29
+2018,1-026-Neplasms(C00-D48),1-029-Malignant neoplasm of stomach(C16),M,60 - 64,20
+2018,1-026-Neplasms(C00-D48),1-029-Malignant neoplasm of stomach(C16),M,65 - 69,31
+2018,1-026-Neplasms(C00-D48),1-029-Malignant neoplasm of stomach(C16),M,70 - 74,23
+2018,1-026-Neplasms(C00-D48),1-029-Malignant neoplasm of stomach(C16),M,75 - 79,21
+2018,1-026-Neplasms(C00-D48),1-029-Malignant neoplasm of stomach(C16),M,80 - 84,26
+2018,1-026-Neplasms(C00-D48),1-029-Malignant neoplasm of stomach(C16),M,85 and Over,25
+2018,1-026-Neplasms(C00-D48),"1-030-Malignant neoplasm of colon, rectum and anus(C18-C21)",M,20 - 29,2
+2018,1-026-Neplasms(C00-D48),"1-030-Malignant neoplasm of colon, rectum and anus(C18-C21)",M,30 - 39,2
+2018,1-026-Neplasms(C00-D48),"1-030-Malignant neoplasm of colon, rectum and anus(C18-C21)",M,40 - 49,21
+2018,1-026-Neplasms(C00-D48),"1-030-Malignant neoplasm of colon, rectum and anus(C18-C21)",M,50 - 59,53
+2018,1-026-Neplasms(C00-D48),"1-030-Malignant neoplasm of colon, rectum and anus(C18-C21)",M,60 - 64,66
+2018,1-026-Neplasms(C00-D48),"1-030-Malignant neoplasm of colon, rectum and anus(C18-C21)",M,65 - 69,81
+2018,1-026-Neplasms(C00-D48),"1-030-Malignant neoplasm of colon, rectum and anus(C18-C21)",M,70 - 74,79
+2018,1-026-Neplasms(C00-D48),"1-030-Malignant neoplasm of colon, rectum and anus(C18-C21)",M,75 - 79,81
+2018,1-026-Neplasms(C00-D48),"1-030-Malignant neoplasm of colon, rectum and anus(C18-C21)",M,80 - 84,55
+2018,1-026-Neplasms(C00-D48),"1-030-Malignant neoplasm of colon, rectum and anus(C18-C21)",M,85 and Over,56
+2018,1-026-Neplasms(C00-D48),1-031-Malignant neoplasm of liver and intrahepatic bile ducts(C22),M,30 - 39,2
+2018,1-026-Neplasms(C00-D48),1-031-Malignant neoplasm of liver and intrahepatic bile ducts(C22),M,40 - 49,18
+2018,1-026-Neplasms(C00-D48),1-031-Malignant neoplasm of liver and intrahepatic bile ducts(C22),M,50 - 59,61
+2018,1-026-Neplasms(C00-D48),1-031-Malignant neoplasm of liver and intrahepatic bile ducts(C22),M,60 - 64,87
+2018,1-026-Neplasms(C00-D48),1-031-Malignant neoplasm of liver and intrahepatic bile ducts(C22),M,65 - 69,73
+2018,1-026-Neplasms(C00-D48),1-031-Malignant neoplasm of liver and intrahepatic bile ducts(C22),M,70 - 74,74
+2018,1-026-Neplasms(C00-D48),1-031-Malignant neoplasm of liver and intrahepatic bile ducts(C22),M,75 - 79,62
+2018,1-026-Neplasms(C00-D48),1-031-Malignant neoplasm of liver and intrahepatic bile ducts(C22),M,80 - 84,38
+2018,1-026-Neplasms(C00-D48),1-031-Malignant neoplasm of liver and intrahepatic bile ducts(C22),M,85 and Over,44
+2018,1-026-Neplasms(C00-D48),1-032-Malignant neoplasm of pancreas(C25),M,30 - 39,2
+2018,1-026-Neplasms(C00-D48),1-032-Malignant neoplasm of pancreas(C25),M,40 - 49,8
+2018,1-026-Neplasms(C00-D48),1-032-Malignant neoplasm of pancreas(C25),M,50 - 59,31
+2018,1-026-Neplasms(C00-D48),1-032-Malignant neoplasm of pancreas(C25),M,60 - 64,38
+2018,1-026-Neplasms(C00-D48),1-032-Malignant neoplasm of pancreas(C25),M,65 - 69,42
+2018,1-026-Neplasms(C00-D48),1-032-Malignant neoplasm of pancreas(C25),M,70 - 74,38
+2018,1-026-Neplasms(C00-D48),1-032-Malignant neoplasm of pancreas(C25),M,75 - 79,35
+2018,1-026-Neplasms(C00-D48),1-032-Malignant neoplasm of pancreas(C25),M,80 - 84,21
+2018,1-026-Neplasms(C00-D48),1-032-Malignant neoplasm of pancreas(C25),M,85 and Over,24
+2018,1-026-Neplasms(C00-D48),1-033-Malignant neoplasm of larynx(C32),M,50 - 59,2
+2018,1-026-Neplasms(C00-D48),1-033-Malignant neoplasm of larynx(C32),M,60 - 64,3
+2018,1-026-Neplasms(C00-D48),1-033-Malignant neoplasm of larynx(C32),M,65 - 69,2
+2018,1-026-Neplasms(C00-D48),1-033-Malignant neoplasm of larynx(C32),M,70 - 74,4
+2018,1-026-Neplasms(C00-D48),1-033-Malignant neoplasm of larynx(C32),M,75 - 79,10
+2018,1-026-Neplasms(C00-D48),1-033-Malignant neoplasm of larynx(C32),M,80 - 84,3
+2018,1-026-Neplasms(C00-D48),1-033-Malignant neoplasm of larynx(C32),M,85 and Over,5
+2018,1-026-Neplasms(C00-D48),"1-034-Malignant neoplasm of trachea, bronchus and lung(C33-C34)",M,10 - 19,1
+2018,1-026-Neplasms(C00-D48),"1-034-Malignant neoplasm of trachea, bronchus and lung(C33-C34)",M,30 - 39,6
+2018,1-026-Neplasms(C00-D48),"1-034-Malignant neoplasm of trachea, bronchus and lung(C33-C34)",M,40 - 49,20
+2018,1-026-Neplasms(C00-D48),"1-034-Malignant neoplasm of trachea, bronchus and lung(C33-C34)",M,50 - 59,101
+2018,1-026-Neplasms(C00-D48),"1-034-Malignant neoplasm of trachea, bronchus and lung(C33-C34)",M,60 - 64,101
+2018,1-026-Neplasms(C00-D48),"1-034-Malignant neoplasm of trachea, bronchus and lung(C33-C34)",M,65 - 69,122
+2018,1-026-Neplasms(C00-D48),"1-034-Malignant neoplasm of trachea, bronchus and lung(C33-C34)",M,70 - 74,134
+2018,1-026-Neplasms(C00-D48),"1-034-Malignant neoplasm of trachea, bronchus and lung(C33-C34)",M,75 - 79,149
+2018,1-026-Neplasms(C00-D48),"1-034-Malignant neoplasm of trachea, bronchus and lung(C33-C34)",M,80 - 84,125
+2018,1-026-Neplasms(C00-D48),"1-034-Malignant neoplasm of trachea, bronchus and lung(C33-C34)",M,85 and Over,102
+2018,1-026-Neplasms(C00-D48),1-035-Malignant melanoma of skin(C43),M,50 - 59,1
+2018,1-026-Neplasms(C00-D48),1-035-Malignant melanoma of skin(C43),M,60 - 64,2
+2018,1-026-Neplasms(C00-D48),1-035-Malignant melanoma of skin(C43),M,65 - 69,2
+2018,1-026-Neplasms(C00-D48),1-035-Malignant melanoma of skin(C43),M,70 - 74,1
+2018,1-026-Neplasms(C00-D48),1-035-Malignant melanoma of skin(C43),M,80 - 84,1
+2018,1-026-Neplasms(C00-D48),1-036-Malignant neoplasm of breast(C50),M,40 - 49,1
+2018,1-026-Neplasms(C00-D48),1-040-Malignant neoplasm of prostate(C61),M,50 - 59,10
+2018,1-026-Neplasms(C00-D48),1-040-Malignant neoplasm of prostate(C61),M,60 - 64,12
+2018,1-026-Neplasms(C00-D48),1-040-Malignant neoplasm of prostate(C61),M,65 - 69,25
+2018,1-026-Neplasms(C00-D48),1-040-Malignant neoplasm of prostate(C61),M,70 - 74,36
+2018,1-026-Neplasms(C00-D48),1-040-Malignant neoplasm of prostate(C61),M,75 - 79,43
+2018,1-026-Neplasms(C00-D48),1-040-Malignant neoplasm of prostate(C61),M,80 - 84,42
+2018,1-026-Neplasms(C00-D48),1-040-Malignant neoplasm of prostate(C61),M,85 and Over,56
+2018,1-026-Neplasms(C00-D48),1-041-Malignant neoplasm of bladder(C67),M,50 - 59,3
+2018,1-026-Neplasms(C00-D48),1-041-Malignant neoplasm of bladder(C67),M,60 - 64,5
+2018,1-026-Neplasms(C00-D48),1-041-Malignant neoplasm of bladder(C67),M,65 - 69,9
+2018,1-026-Neplasms(C00-D48),1-041-Malignant neoplasm of bladder(C67),M,70 - 74,5
+2018,1-026-Neplasms(C00-D48),1-041-Malignant neoplasm of bladder(C67),M,75 - 79,15
+2018,1-026-Neplasms(C00-D48),1-041-Malignant neoplasm of bladder(C67),M,80 - 84,9
+2018,1-026-Neplasms(C00-D48),1-041-Malignant neoplasm of bladder(C67),M,85 and Over,11
+2018,1-026-Neplasms(C00-D48),"1-042-Malignant neoplasm of meninges, brain and other parts of central nervous system(C70-C72)",M,05 - 09,2
+2018,1-026-Neplasms(C00-D48),"1-042-Malignant neoplasm of meninges, brain and other parts of central nervous system(C70-C72)",M,10 - 19,2
+2018,1-026-Neplasms(C00-D48),"1-042-Malignant neoplasm of meninges, brain and other parts of central nervous system(C70-C72)",M,20 - 29,4
+2018,1-026-Neplasms(C00-D48),"1-042-Malignant neoplasm of meninges, brain and other parts of central nervous system(C70-C72)",M,30 - 39,3
+2018,1-026-Neplasms(C00-D48),"1-042-Malignant neoplasm of meninges, brain and other parts of central nervous system(C70-C72)",M,40 - 49,5
+2018,1-026-Neplasms(C00-D48),"1-042-Malignant neoplasm of meninges, brain and other parts of central nervous system(C70-C72)",M,50 - 59,12
+2018,1-026-Neplasms(C00-D48),"1-042-Malignant neoplasm of meninges, brain and other parts of central nervous system(C70-C72)",M,60 - 64,5
+2018,1-026-Neplasms(C00-D48),"1-042-Malignant neoplasm of meninges, brain and other parts of central nervous system(C70-C72)",M,65 - 69,5
+2018,1-026-Neplasms(C00-D48),"1-042-Malignant neoplasm of meninges, brain and other parts of central nervous system(C70-C72)",M,70 - 74,9
+2018,1-026-Neplasms(C00-D48),"1-042-Malignant neoplasm of meninges, brain and other parts of central nervous system(C70-C72)",M,75 - 79,4
+2018,1-026-Neplasms(C00-D48),"1-042-Malignant neoplasm of meninges, brain and other parts of central nervous system(C70-C72)",M,80 - 84,5
+2018,1-026-Neplasms(C00-D48),"1-042-Malignant neoplasm of meninges, brain and other parts of central nervous system(C70-C72)",M,85 and Over,5
+2018,1-026-Neplasms(C00-D48),1-043-Non-Hodgkins lymphoma(C82-C85)),M,10 - 19,2
+2018,1-026-Neplasms(C00-D48),1-043-Non-Hodgkins lymphoma(C82-C85)),M,30 - 39,1
+2018,1-026-Neplasms(C00-D48),1-043-Non-Hodgkins lymphoma(C82-C85)),M,40 - 49,5
+2018,1-026-Neplasms(C00-D48),1-043-Non-Hodgkins lymphoma(C82-C85)),M,50 - 59,13
+2018,1-026-Neplasms(C00-D48),1-043-Non-Hodgkins lymphoma(C82-C85)),M,60 - 64,13
+2018,1-026-Neplasms(C00-D48),1-043-Non-Hodgkins lymphoma(C82-C85)),M,65 - 69,17
+2018,1-026-Neplasms(C00-D48),1-043-Non-Hodgkins lymphoma(C82-C85)),M,70 - 74,19
+2018,1-026-Neplasms(C00-D48),1-043-Non-Hodgkins lymphoma(C82-C85)),M,75 - 79,9
+2018,1-026-Neplasms(C00-D48),1-043-Non-Hodgkins lymphoma(C82-C85)),M,80 - 84,12
+2018,1-026-Neplasms(C00-D48),1-043-Non-Hodgkins lymphoma(C82-C85)),M,85 and Over,9
+2018,1-026-Neplasms(C00-D48),1-044-Multiple myeloma and malignant plasma cell neoplasms(C90),M,40 - 49,3
+2018,1-026-Neplasms(C00-D48),1-044-Multiple myeloma and malignant plasma cell neoplasms(C90),M,50 - 59,1
+2018,1-026-Neplasms(C00-D48),1-044-Multiple myeloma and malignant plasma cell neoplasms(C90),M,60 - 64,4
+2018,1-026-Neplasms(C00-D48),1-044-Multiple myeloma and malignant plasma cell neoplasms(C90),M,65 - 69,5
+2018,1-026-Neplasms(C00-D48),1-044-Multiple myeloma and malignant plasma cell neoplasms(C90),M,70 - 74,4
+2018,1-026-Neplasms(C00-D48),1-044-Multiple myeloma and malignant plasma cell neoplasms(C90),M,75 - 79,8
+2018,1-026-Neplasms(C00-D48),1-044-Multiple myeloma and malignant plasma cell neoplasms(C90),M,80 - 84,5
+2018,1-026-Neplasms(C00-D48),1-044-Multiple myeloma and malignant plasma cell neoplasms(C90),M,85 and Over,3
+2018,1-026-Neplasms(C00-D48),1-045-Leukaemia(C91-C95),M,01,1
+2018,1-026-Neplasms(C00-D48),1-045-Leukaemia(C91-C95),M,10 - 19,3
+2018,1-026-Neplasms(C00-D48),1-045-Leukaemia(C91-C95),M,20 - 29,4
+2018,1-026-Neplasms(C00-D48),1-045-Leukaemia(C91-C95),M,30 - 39,5
+2018,1-026-Neplasms(C00-D48),1-045-Leukaemia(C91-C95),M,40 - 49,5
+2018,1-026-Neplasms(C00-D48),1-045-Leukaemia(C91-C95),M,50 - 59,6
+2018,1-026-Neplasms(C00-D48),1-045-Leukaemia(C91-C95),M,60 - 64,10
+2018,1-026-Neplasms(C00-D48),1-045-Leukaemia(C91-C95),M,65 - 69,13
+2018,1-026-Neplasms(C00-D48),1-045-Leukaemia(C91-C95),M,70 - 74,13
+2018,1-026-Neplasms(C00-D48),1-045-Leukaemia(C91-C95),M,75 - 79,13
+2018,1-026-Neplasms(C00-D48),1-045-Leukaemia(C91-C95),M,80 - 84,13
+2018,1-026-Neplasms(C00-D48),1-045-Leukaemia(C91-C95),M,85 and Over,7
+2018,1-026-Neplasms(C00-D48),1-046-Remainder of malignant neoplasms,M,03,1
+2018,1-026-Neplasms(C00-D48),1-046-Remainder of malignant neoplasms,M,04,1
+2018,1-026-Neplasms(C00-D48),1-046-Remainder of malignant neoplasms,M,05 - 09,1
+2018,1-026-Neplasms(C00-D48),1-046-Remainder of malignant neoplasms,M,20 - 29,3
+2018,1-026-Neplasms(C00-D48),1-046-Remainder of malignant neoplasms,M,30 - 39,6
+2018,1-026-Neplasms(C00-D48),1-046-Remainder of malignant neoplasms,M,40 - 49,14
+2018,1-026-Neplasms(C00-D48),1-046-Remainder of malignant neoplasms,M,50 - 59,47
+2018,1-026-Neplasms(C00-D48),1-046-Remainder of malignant neoplasms,M,60 - 64,44
+2018,1-026-Neplasms(C00-D48),1-046-Remainder of malignant neoplasms,M,65 - 69,46
+2018,1-026-Neplasms(C00-D48),1-046-Remainder of malignant neoplasms,M,70 - 74,35
+2018,1-026-Neplasms(C00-D48),1-046-Remainder of malignant neoplasms,M,75 - 79,35
+2018,1-026-Neplasms(C00-D48),1-046-Remainder of malignant neoplasms,M,80 - 84,40
+2018,1-026-Neplasms(C00-D48),1-046-Remainder of malignant neoplasms,M,85 and Over,33
+2018,1-026-Neplasms(C00-D48),1-047-Remainder of neoplasms(D00-D48),M,20 - 29,1
+2018,1-026-Neplasms(C00-D48),1-047-Remainder of neoplasms(D00-D48),M,30 - 39,1
+2018,1-026-Neplasms(C00-D48),1-047-Remainder of neoplasms(D00-D48),M,40 - 49,1
+2018,1-026-Neplasms(C00-D48),1-047-Remainder of neoplasms(D00-D48),M,50 - 59,6
+2018,1-026-Neplasms(C00-D48),1-047-Remainder of neoplasms(D00-D48),M,60 - 64,12
+2018,1-026-Neplasms(C00-D48),1-047-Remainder of neoplasms(D00-D48),M,65 - 69,11
+2018,1-026-Neplasms(C00-D48),1-047-Remainder of neoplasms(D00-D48),M,70 - 74,6
+2018,1-026-Neplasms(C00-D48),1-047-Remainder of neoplasms(D00-D48),M,75 - 79,12
+2018,1-026-Neplasms(C00-D48),1-047-Remainder of neoplasms(D00-D48),M,80 - 84,13
+2018,1-026-Neplasms(C00-D48),1-047-Remainder of neoplasms(D00-D48),M,85 and Over,10
+2018,"1-048-Diseases of the blood and blood-forming organs and					certain disorders involving the immune mechanism(D50-D89)",1-049-Anaemias(D50-D64),M,10 - 19,1
+2018,"1-048-Diseases of the blood and blood-forming organs and					certain disorders involving the immune mechanism(D50-D89)",1-049-Anaemias(D50-D64),M,60 - 64,1
+2018,"1-048-Diseases of the blood and blood-forming organs and					certain disorders involving the immune mechanism(D50-D89)",1-049-Anaemias(D50-D64),M,65 - 69,1
+2018,"1-048-Diseases of the blood and blood-forming organs and					certain disorders involving the immune mechanism(D50-D89)",1-049-Anaemias(D50-D64),M,75 - 79,1
+2018,"1-048-Diseases of the blood and blood-forming organs and					certain disorders involving the immune mechanism(D50-D89)",1-049-Anaemias(D50-D64),M,85 and Over,1
+2018,"1-048-Diseases of the blood and blood-forming organs and					certain disorders involving the immune mechanism(D50-D89)","1-050-Remainder of diseases of the blood and blood-forming		organs and certain disorders involving the immune mechanism(D65-D89)",M,50 - 59,1
+2018,"1-048-Diseases of the blood and blood-forming organs and					certain disorders involving the immune mechanism(D50-D89)","1-050-Remainder of diseases of the blood and blood-forming		organs and certain disorders involving the immune mechanism(D65-D89)",M,85 and Over,1
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)",1-052-Diabetes mellitus(E10-E14),M,20 - 29,2
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)",1-052-Diabetes mellitus(E10-E14),M,30 - 39,1
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)",1-052-Diabetes mellitus(E10-E14),M,40 - 49,1
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)",1-052-Diabetes mellitus(E10-E14),M,50 - 59,14
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)",1-052-Diabetes mellitus(E10-E14),M,60 - 64,11
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)",1-052-Diabetes mellitus(E10-E14),M,65 - 69,17
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)",1-052-Diabetes mellitus(E10-E14),M,70 - 74,22
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)",1-052-Diabetes mellitus(E10-E14),M,75 - 79,20
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)",1-052-Diabetes mellitus(E10-E14),M,80 - 84,18
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)",1-052-Diabetes mellitus(E10-E14),M,85 and Over,20
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)","1-054-Remainder of endocrine, nutritional and metabolic diseases",M,50 - 59,1
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)","1-054-Remainder of endocrine, nutritional and metabolic diseases",M,60 - 64,1
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)","1-054-Remainder of endocrine, nutritional and metabolic diseases",M,65 - 69,2
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)","1-054-Remainder of endocrine, nutritional and metabolic diseases",M,70 - 74,1
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)","1-054-Remainder of endocrine, nutritional and metabolic diseases",M,75 - 79,2
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)","1-054-Remainder of endocrine, nutritional and metabolic diseases",M,85 and Over,1
+2018,1-055-Mental and behavioural disorders(F01-F99),"1-057-Remainder of mental and behavioural disorders(F01-F09,F20-F99)",M,85 and Over,1
+2018,1-058-Diseases of the nervous system(G00-G98),"1-059-Meningitis(G00,G03)",M,60 - 64,1
+2018,1-058-Diseases of the nervous system(G00-G98),1-060-Alzheimers disease(G30),M,75 - 79,2
+2018,1-058-Diseases of the nervous system(G00-G98),1-060-Alzheimers disease(G30),M,80 - 84,4
+2018,1-058-Diseases of the nervous system(G00-G98),1-060-Alzheimers disease(G30),M,85 and Over,3
+2018,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",M,02,1
+2018,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",M,03,1
+2018,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",M,05 - 09,2
+2018,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",M,10 - 19,3
+2018,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",M,20 - 29,5
+2018,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",M,30 - 39,6
+2018,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",M,40 - 49,1
+2018,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",M,50 - 59,11
+2018,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",M,60 - 64,8
+2018,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",M,65 - 69,13
+2018,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",M,70 - 74,11
+2018,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",M,75 - 79,13
+2018,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",M,80 - 84,13
+2018,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",M,85 and Over,7
+2018,1-064-Diseases of the circulatory system(I00-I99),1-065-Acute rheumatic fever and chronic rheumatic heart diseases(I00-I09),M,30 - 39,1
+2018,1-064-Diseases of the circulatory system(I00-I99),1-065-Acute rheumatic fever and chronic rheumatic heart diseases(I00-I09),M,50 - 59,1
+2018,1-064-Diseases of the circulatory system(I00-I99),1-065-Acute rheumatic fever and chronic rheumatic heart diseases(I00-I09),M,65 - 69,2
+2018,1-064-Diseases of the circulatory system(I00-I99),1-065-Acute rheumatic fever and chronic rheumatic heart diseases(I00-I09),M,70 - 74,1
+2018,1-064-Diseases of the circulatory system(I00-I99),1-065-Acute rheumatic fever and chronic rheumatic heart diseases(I00-I09),M,75 - 79,1
+2018,1-064-Diseases of the circulatory system(I00-I99),1-065-Acute rheumatic fever and chronic rheumatic heart diseases(I00-I09),M,80 - 84,2
+2018,1-064-Diseases of the circulatory system(I00-I99),1-065-Acute rheumatic fever and chronic rheumatic heart diseases(I00-I09),M,85 and Over,2
+2018,1-064-Diseases of the circulatory system(I00-I99),1-066-Hypertensive diseases(I10-I13),M,30 - 39,4
+2018,1-064-Diseases of the circulatory system(I00-I99),1-066-Hypertensive diseases(I10-I13),M,40 - 49,29
+2018,1-064-Diseases of the circulatory system(I00-I99),1-066-Hypertensive diseases(I10-I13),M,50 - 59,59
+2018,1-064-Diseases of the circulatory system(I00-I99),1-066-Hypertensive diseases(I10-I13),M,60 - 64,34
+2018,1-064-Diseases of the circulatory system(I00-I99),1-066-Hypertensive diseases(I10-I13),M,65 - 69,55
+2018,1-064-Diseases of the circulatory system(I00-I99),1-066-Hypertensive diseases(I10-I13),M,70 - 74,63
+2018,1-064-Diseases of the circulatory system(I00-I99),1-066-Hypertensive diseases(I10-I13),M,75 - 79,35
+2018,1-064-Diseases of the circulatory system(I00-I99),1-066-Hypertensive diseases(I10-I13),M,80 - 84,36
+2018,1-064-Diseases of the circulatory system(I00-I99),1-066-Hypertensive diseases(I10-I13),M,85 and Over,32
+2018,1-064-Diseases of the circulatory system(I00-I99),1-067-Ischaemic heart diseases(I20-I25),M,05 - 09,1
+2018,1-064-Diseases of the circulatory system(I00-I99),1-067-Ischaemic heart diseases(I20-I25),M,20 - 29,5
+2018,1-064-Diseases of the circulatory system(I00-I99),1-067-Ischaemic heart diseases(I20-I25),M,30 - 39,46
+2018,1-064-Diseases of the circulatory system(I00-I99),1-067-Ischaemic heart diseases(I20-I25),M,40 - 49,131
+2018,1-064-Diseases of the circulatory system(I00-I99),1-067-Ischaemic heart diseases(I20-I25),M,50 - 59,393
+2018,1-064-Diseases of the circulatory system(I00-I99),1-067-Ischaemic heart diseases(I20-I25),M,60 - 64,290
+2018,1-064-Diseases of the circulatory system(I00-I99),1-067-Ischaemic heart diseases(I20-I25),M,65 - 69,307
+2018,1-064-Diseases of the circulatory system(I00-I99),1-067-Ischaemic heart diseases(I20-I25),M,70 - 74,303
+2018,1-064-Diseases of the circulatory system(I00-I99),1-067-Ischaemic heart diseases(I20-I25),M,75 - 79,298
+2018,1-064-Diseases of the circulatory system(I00-I99),1-067-Ischaemic heart diseases(I20-I25),M,80 - 84,270
+2018,1-064-Diseases of the circulatory system(I00-I99),1-067-Ischaemic heart diseases(I20-I25),M,85 and Over,380
+2018,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),M,03,1
+2018,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),M,10 - 19,6
+2018,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),M,20 - 29,7
+2018,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),M,28 days - under 1 years,3
+2018,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),M,30 - 39,14
+2018,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),M,40 - 49,19
+2018,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),M,50 - 59,22
+2018,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),M,60 - 64,24
+2018,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),M,65 - 69,24
+2018,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),M,70 - 74,20
+2018,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),M,75 - 79,15
+2018,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),M,80 - 84,18
+2018,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),M,85 and Over,35
+2018,1-064-Diseases of the circulatory system(I00-I99),1-069-Cerebrovascular diseases(I60-I69),M,10 - 19,1
+2018,1-064-Diseases of the circulatory system(I00-I99),1-069-Cerebrovascular diseases(I60-I69),M,20 - 29,2
+2018,1-064-Diseases of the circulatory system(I00-I99),1-069-Cerebrovascular diseases(I60-I69),M,30 - 39,9
+2018,1-064-Diseases of the circulatory system(I00-I99),1-069-Cerebrovascular diseases(I60-I69),M,40 - 49,42
+2018,1-064-Diseases of the circulatory system(I00-I99),1-069-Cerebrovascular diseases(I60-I69),M,50 - 59,69
+2018,1-064-Diseases of the circulatory system(I00-I99),1-069-Cerebrovascular diseases(I60-I69),M,60 - 64,59
+2018,1-064-Diseases of the circulatory system(I00-I99),1-069-Cerebrovascular diseases(I60-I69),M,65 - 69,62
+2018,1-064-Diseases of the circulatory system(I00-I99),1-069-Cerebrovascular diseases(I60-I69),M,70 - 74,85
+2018,1-064-Diseases of the circulatory system(I00-I99),1-069-Cerebrovascular diseases(I60-I69),M,75 - 79,75
+2018,1-064-Diseases of the circulatory system(I00-I99),1-069-Cerebrovascular diseases(I60-I69),M,80 - 84,80
+2018,1-064-Diseases of the circulatory system(I00-I99),1-069-Cerebrovascular diseases(I60-I69),M,85 and Over,108
+2018,1-064-Diseases of the circulatory system(I00-I99),1-070-Atherosclerosis(I71),M,65 - 69,1
+2018,1-064-Diseases of the circulatory system(I00-I99),1-070-Atherosclerosis(I71),M,70 - 74,1
+2018,1-064-Diseases of the circulatory system(I00-I99),1-070-Atherosclerosis(I71),M,75 - 79,4
+2018,1-064-Diseases of the circulatory system(I00-I99),1-070-Atherosclerosis(I71),M,80 - 84,3
+2018,1-064-Diseases of the circulatory system(I00-I99),1-070-Atherosclerosis(I71),M,85 and Over,2
+2018,1-064-Diseases of the circulatory system(I00-I99),1-071-Remainder of diseases of the circulatory system(I71-I99),M,10 - 19,1
+2018,1-064-Diseases of the circulatory system(I00-I99),1-071-Remainder of diseases of the circulatory system(I71-I99),M,30 - 39,4
+2018,1-064-Diseases of the circulatory system(I00-I99),1-071-Remainder of diseases of the circulatory system(I71-I99),M,40 - 49,1
+2018,1-064-Diseases of the circulatory system(I00-I99),1-071-Remainder of diseases of the circulatory system(I71-I99),M,50 - 59,10
+2018,1-064-Diseases of the circulatory system(I00-I99),1-071-Remainder of diseases of the circulatory system(I71-I99),M,60 - 64,9
+2018,1-064-Diseases of the circulatory system(I00-I99),1-071-Remainder of diseases of the circulatory system(I71-I99),M,65 - 69,10
+2018,1-064-Diseases of the circulatory system(I00-I99),1-071-Remainder of diseases of the circulatory system(I71-I99),M,70 - 74,17
+2018,1-064-Diseases of the circulatory system(I00-I99),1-071-Remainder of diseases of the circulatory system(I71-I99),M,75 - 79,27
+2018,1-064-Diseases of the circulatory system(I00-I99),1-071-Remainder of diseases of the circulatory system(I71-I99),M,80 - 84,25
+2018,1-064-Diseases of the circulatory system(I00-I99),1-071-Remainder of diseases of the circulatory system(I71-I99),M,85 and Over,15
+2018,1-072-Diseases of the respiratory system(J00-J98),1-073-Influenza(J09-J11),M,50 - 59,1
+2018,1-072-Diseases of the respiratory system(J00-J98),1-073-Influenza(J09-J11),M,60 - 64,1
+2018,1-072-Diseases of the respiratory system(J00-J98),1-073-Influenza(J09-J11),M,70 - 74,1
+2018,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),M,01,1
+2018,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),M,02,1
+2018,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),M,10 - 19,3
+2018,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),M,20 - 29,2
+2018,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),M,28 days - under 1 years,1
+2018,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),M,30 - 39,4
+2018,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),M,40 - 49,14
+2018,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),M,50 - 59,81
+2018,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),M,60 - 64,113
+2018,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),M,65 - 69,140
+2018,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),M,70 - 74,254
+2018,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),M,75 - 79,317
+2018,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),M,80 - 84,409
+2018,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),M,85 and Over,843
+2018,1-072-Diseases of the respiratory system(J00-J98),1-075-Other acute lower respiratory infections(J20-J22),M,85 and Over,1
+2018,1-072-Diseases of the respiratory system(J00-J98),1-076-Chronic lower respiratory diseases(J40-J47),M,10 - 19,1
+2018,1-072-Diseases of the respiratory system(J00-J98),1-076-Chronic lower respiratory diseases(J40-J47),M,20 - 29,2
+2018,1-072-Diseases of the respiratory system(J00-J98),1-076-Chronic lower respiratory diseases(J40-J47),M,30 - 39,3
+2018,1-072-Diseases of the respiratory system(J00-J98),1-076-Chronic lower respiratory diseases(J40-J47),M,40 - 49,4
+2018,1-072-Diseases of the respiratory system(J00-J98),1-076-Chronic lower respiratory diseases(J40-J47),M,50 - 59,16
+2018,1-072-Diseases of the respiratory system(J00-J98),1-076-Chronic lower respiratory diseases(J40-J47),M,60 - 64,20
+2018,1-072-Diseases of the respiratory system(J00-J98),1-076-Chronic lower respiratory diseases(J40-J47),M,65 - 69,33
+2018,1-072-Diseases of the respiratory system(J00-J98),1-076-Chronic lower respiratory diseases(J40-J47),M,70 - 74,44
+2018,1-072-Diseases of the respiratory system(J00-J98),1-076-Chronic lower respiratory diseases(J40-J47),M,75 - 79,49
+2018,1-072-Diseases of the respiratory system(J00-J98),1-076-Chronic lower respiratory diseases(J40-J47),M,80 - 84,43
+2018,1-072-Diseases of the respiratory system(J00-J98),1-076-Chronic lower respiratory diseases(J40-J47),M,85 and Over,68
+2018,1-072-Diseases of the respiratory system(J00-J98),1-077-Remainder of diseases of the respiratory system,M,28 days - under 1 years,1
+2018,1-072-Diseases of the respiratory system(J00-J98),1-077-Remainder of diseases of the respiratory system,M,30 - 39,1
+2018,1-072-Diseases of the respiratory system(J00-J98),1-077-Remainder of diseases of the respiratory system,M,50 - 59,5
+2018,1-072-Diseases of the respiratory system(J00-J98),1-077-Remainder of diseases of the respiratory system,M,60 - 64,10
+2018,1-072-Diseases of the respiratory system(J00-J98),1-077-Remainder of diseases of the respiratory system,M,65 - 69,12
+2018,1-072-Diseases of the respiratory system(J00-J98),1-077-Remainder of diseases of the respiratory system,M,70 - 74,9
+2018,1-072-Diseases of the respiratory system(J00-J98),1-077-Remainder of diseases of the respiratory system,M,75 - 79,6
+2018,1-072-Diseases of the respiratory system(J00-J98),1-077-Remainder of diseases of the respiratory system,M,80 - 84,17
+2018,1-072-Diseases of the respiratory system(J00-J98),1-077-Remainder of diseases of the respiratory system,M,85 and Over,9
+2018,1-078-Diseases of the digestive system(K00-K92),1-079-Gastric and duodenal ulcer(K25-K27),M,40 - 49,2
+2018,1-078-Diseases of the digestive system(K00-K92),1-079-Gastric and duodenal ulcer(K25-K27),M,50 - 59,2
+2018,1-078-Diseases of the digestive system(K00-K92),1-079-Gastric and duodenal ulcer(K25-K27),M,60 - 64,4
+2018,1-078-Diseases of the digestive system(K00-K92),1-079-Gastric and duodenal ulcer(K25-K27),M,65 - 69,5
+2018,1-078-Diseases of the digestive system(K00-K92),1-079-Gastric and duodenal ulcer(K25-K27),M,70 - 74,4
+2018,1-078-Diseases of the digestive system(K00-K92),1-079-Gastric and duodenal ulcer(K25-K27),M,80 - 84,1
+2018,1-078-Diseases of the digestive system(K00-K92),1-079-Gastric and duodenal ulcer(K25-K27),M,85 and Over,6
+2018,1-078-Diseases of the digestive system(K00-K92),1-080-Diseases of the liver(K70-K76),M,20 - 29,1
+2018,1-078-Diseases of the digestive system(K00-K92),1-080-Diseases of the liver(K70-K76),M,30 - 39,3
+2018,1-078-Diseases of the digestive system(K00-K92),1-080-Diseases of the liver(K70-K76),M,40 - 49,13
+2018,1-078-Diseases of the digestive system(K00-K92),1-080-Diseases of the liver(K70-K76),M,50 - 59,29
+2018,1-078-Diseases of the digestive system(K00-K92),1-080-Diseases of the liver(K70-K76),M,60 - 64,12
+2018,1-078-Diseases of the digestive system(K00-K92),1-080-Diseases of the liver(K70-K76),M,65 - 69,15
+2018,1-078-Diseases of the digestive system(K00-K92),1-080-Diseases of the liver(K70-K76),M,70 - 74,9
+2018,1-078-Diseases of the digestive system(K00-K92),1-080-Diseases of the liver(K70-K76),M,75 - 79,2
+2018,1-078-Diseases of the digestive system(K00-K92),1-080-Diseases of the liver(K70-K76),M,80 - 84,10
+2018,1-078-Diseases of the digestive system(K00-K92),1-080-Diseases of the liver(K70-K76),M,85 and Over,9
+2018,1-078-Diseases of the digestive system(K00-K92),1-081-Remainder of diseases of the digestive system,M,20 - 29,1
+2018,1-078-Diseases of the digestive system(K00-K92),1-081-Remainder of diseases of the digestive system,M,30 - 39,2
+2018,1-078-Diseases of the digestive system(K00-K92),1-081-Remainder of diseases of the digestive system,M,40 - 49,2
+2018,1-078-Diseases of the digestive system(K00-K92),1-081-Remainder of diseases of the digestive system,M,50 - 59,10
+2018,1-078-Diseases of the digestive system(K00-K92),1-081-Remainder of diseases of the digestive system,M,60 - 64,14
+2018,1-078-Diseases of the digestive system(K00-K92),1-081-Remainder of diseases of the digestive system,M,65 - 69,24
+2018,1-078-Diseases of the digestive system(K00-K92),1-081-Remainder of diseases of the digestive system,M,70 - 74,16
+2018,1-078-Diseases of the digestive system(K00-K92),1-081-Remainder of diseases of the digestive system,M,75 - 79,14
+2018,1-078-Diseases of the digestive system(K00-K92),1-081-Remainder of diseases of the digestive system,M,80 - 84,16
+2018,1-078-Diseases of the digestive system(K00-K92),1-081-Remainder of diseases of the digestive system,M,85 and Over,39
+2018,1-082-Diseases of the skin and subcutaneous tissue(L00-L98),1-082-Diseases of the skin and subcutaneous tissue(L00-L98),M,40 - 49,1
+2018,1-082-Diseases of the skin and subcutaneous tissue(L00-L98),1-082-Diseases of the skin and subcutaneous tissue(L00-L98),M,50 - 59,6
+2018,1-082-Diseases of the skin and subcutaneous tissue(L00-L98),1-082-Diseases of the skin and subcutaneous tissue(L00-L98),M,60 - 64,1
+2018,1-082-Diseases of the skin and subcutaneous tissue(L00-L98),1-082-Diseases of the skin and subcutaneous tissue(L00-L98),M,65 - 69,6
+2018,1-082-Diseases of the skin and subcutaneous tissue(L00-L98),1-082-Diseases of the skin and subcutaneous tissue(L00-L98),M,70 - 74,4
+2018,1-082-Diseases of the skin and subcutaneous tissue(L00-L98),1-082-Diseases of the skin and subcutaneous tissue(L00-L98),M,75 - 79,5
+2018,1-082-Diseases of the skin and subcutaneous tissue(L00-L98),1-082-Diseases of the skin and subcutaneous tissue(L00-L98),M,80 - 84,16
+2018,1-082-Diseases of the skin and subcutaneous tissue(L00-L98),1-082-Diseases of the skin and subcutaneous tissue(L00-L98),M,85 and Over,11
+2018,1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),M,30 - 39,1
+2018,1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),M,40 - 49,2
+2018,1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),M,50 - 59,5
+2018,1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),M,60 - 64,4
+2018,1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),M,65 - 69,6
+2018,1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),M,70 - 74,5
+2018,1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),M,75 - 79,9
+2018,1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),M,80 - 84,8
+2018,1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),M,85 and Over,5
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-085-Glomerular and renal tubulo-interstitial diseases(N00-N15),M,28 days - under 1 years,1
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-085-Glomerular and renal tubulo-interstitial diseases(N00-N15),M,30 - 39,1
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-085-Glomerular and renal tubulo-interstitial diseases(N00-N15),M,50 - 59,1
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-085-Glomerular and renal tubulo-interstitial diseases(N00-N15),M,60 - 64,1
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-085-Glomerular and renal tubulo-interstitial diseases(N00-N15),M,65 - 69,1
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-085-Glomerular and renal tubulo-interstitial diseases(N00-N15),M,70 - 74,2
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-085-Glomerular and renal tubulo-interstitial diseases(N00-N15),M,75 - 79,1
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-085-Glomerular and renal tubulo-interstitial diseases(N00-N15),M,80 - 84,2
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-085-Glomerular and renal tubulo-interstitial diseases(N00-N15),M,85 and Over,4
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-086-Remainder of diseases of the genitourinary system(N17-N98),M,05 - 09,1
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-086-Remainder of diseases of the genitourinary system(N17-N98),M,10 - 19,1
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-086-Remainder of diseases of the genitourinary system(N17-N98),M,20 - 29,1
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-086-Remainder of diseases of the genitourinary system(N17-N98),M,30 - 39,1
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-086-Remainder of diseases of the genitourinary system(N17-N98),M,40 - 49,2
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-086-Remainder of diseases of the genitourinary system(N17-N98),M,50 - 59,25
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-086-Remainder of diseases of the genitourinary system(N17-N98),M,60 - 64,35
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-086-Remainder of diseases of the genitourinary system(N17-N98),M,65 - 69,47
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-086-Remainder of diseases of the genitourinary system(N17-N98),M,70 - 74,40
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-086-Remainder of diseases of the genitourinary system(N17-N98),M,75 - 79,63
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-086-Remainder of diseases of the genitourinary system(N17-N98),M,80 - 84,77
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-086-Remainder of diseases of the genitourinary system(N17-N98),M,85 and Over,100
+2018,1-092-Certain conditions originating in the perinatal period(P00-P96),1-092-Certain conditions originating in the perinatal period(P00-P96),M,28 days - under 1 years,1
+2018,1-092-Certain conditions originating in the perinatal period(P00-P96),1-092-Certain conditions originating in the perinatal period(P00-P96),M,Under 28 days,18
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",M,01,1
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",M,02,2
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",M,04,1
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",M,05 - 09,1
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",M,10 - 19,2
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",M,20 - 29,1
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",M,28 days - under 1 years,7
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",M,30 - 39,2
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",M,40 - 49,2
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",M,50 - 59,2
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",M,65 - 69,3
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",M,80 - 84,1
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",M,Under 28 days,6
+2018,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",M,05 - 09,1
+2018,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",M,10 - 19,2
+2018,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",M,20 - 29,5
+2018,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",M,28 days - under 1 years,3
+2018,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",M,30 - 39,9
+2018,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",M,40 - 49,8
+2018,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",M,50 - 59,3
+2018,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",M,60 - 64,1
+2018,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",M,65 - 69,3
+2018,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",M,75 - 79,3
+2018,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",M,80 - 84,1
+2018,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",M,85 and Over,5
+2018,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",M,Under 28 days,4
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-096-Transport accidents(V01-V99),M,05 - 09,1
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-096-Transport accidents(V01-V99),M,20 - 29,24
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-096-Transport accidents(V01-V99),M,30 - 39,24
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-096-Transport accidents(V01-V99),M,40 - 49,25
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-096-Transport accidents(V01-V99),M,50 - 59,15
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-096-Transport accidents(V01-V99),M,60 - 64,5
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-096-Transport accidents(V01-V99),M,65 - 69,5
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-096-Transport accidents(V01-V99),M,70 - 74,3
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-096-Transport accidents(V01-V99),M,75 - 79,4
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-096-Transport accidents(V01-V99),M,80 - 84,4
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-096-Transport accidents(V01-V99),M,85 and Over,5
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-097-Falls(W00-W19),M,05 - 09,1
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-097-Falls(W00-W19),M,10 - 19,1
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-097-Falls(W00-W19),M,20 - 29,4
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-097-Falls(W00-W19),M,30 - 39,4
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-097-Falls(W00-W19),M,40 - 49,12
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-097-Falls(W00-W19),M,50 - 59,10
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-097-Falls(W00-W19),M,60 - 64,11
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-097-Falls(W00-W19),M,65 - 69,11
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-097-Falls(W00-W19),M,70 - 74,22
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-097-Falls(W00-W19),M,75 - 79,23
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-097-Falls(W00-W19),M,80 - 84,20
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-097-Falls(W00-W19),M,85 and Over,15
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-098-Accidental drowning and submersion(W65-W74),M,03,1
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-098-Accidental drowning and submersion(W65-W74),M,10 - 19,2
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-098-Accidental drowning and submersion(W65-W74),M,20 - 29,6
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-098-Accidental drowning and submersion(W65-W74),M,30 - 39,5
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-098-Accidental drowning and submersion(W65-W74),M,50 - 59,3
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-098-Accidental drowning and submersion(W65-W74),M,60 - 64,3
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-098-Accidental drowning and submersion(W65-W74),M,65 - 69,1
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-098-Accidental drowning and submersion(W65-W74),M,75 - 79,1
+2018,1-095-External causes of morbidity and mortality(V01-Y89),"1-099-Exposure to smoke, fire and flames(X00-X09)",M,20 - 29,1
+2018,1-095-External causes of morbidity and mortality(V01-Y89),"1-099-Exposure to smoke, fire and flames(X00-X09)",M,50 - 59,1
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-100-Accidental poisoning by and exposure to noxious substances(X40-X49),M,20 - 29,4
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-100-Accidental poisoning by and exposure to noxious substances(X40-X49),M,30 - 39,5
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-100-Accidental poisoning by and exposure to noxious substances(X40-X49),M,40 - 49,10
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-100-Accidental poisoning by and exposure to noxious substances(X40-X49),M,50 - 59,4
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-100-Accidental poisoning by and exposure to noxious substances(X40-X49),M,65 - 69,1
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-101-Intentional self-harm(X60-X84),M,10 - 19,19
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-101-Intentional self-harm(X60-X84),M,20 - 29,54
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-101-Intentional self-harm(X60-X84),M,30 - 39,38
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-101-Intentional self-harm(X60-X84),M,40 - 49,42
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-101-Intentional self-harm(X60-X84),M,50 - 59,48
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-101-Intentional self-harm(X60-X84),M,60 - 64,23
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-101-Intentional self-harm(X60-X84),M,65 - 69,18
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-101-Intentional self-harm(X60-X84),M,70 - 74,19
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-101-Intentional self-harm(X60-X84),M,75 - 79,8
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-101-Intentional self-harm(X60-X84),M,80 - 84,9
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-101-Intentional self-harm(X60-X84),M,85 and Over,5
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-102-Assault(X85-Y09),M,20 - 29,1
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-102-Assault(X85-Y09),M,30 - 39,1
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-103-All other external causes,M,10 - 19,2
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-103-All other external causes,M,20 - 29,9
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-103-All other external causes,M,30 - 39,12
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-103-All other external causes,M,40 - 49,16
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-103-All other external causes,M,50 - 59,19
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-103-All other external causes,M,60 - 64,4
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-103-All other external causes,M,65 - 69,5
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-103-All other external causes,M,70 - 74,6
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-103-All other external causes,M,75 - 79,5
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-103-All other external causes,M,80 - 84,2
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-103-All other external causes,M,85 and Over,2
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-103-All other external causes,M,Under 28 days,1
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",U,Under 28 days,1

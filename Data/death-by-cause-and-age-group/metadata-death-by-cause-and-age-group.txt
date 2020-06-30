@@ -1,0 +1,71 @@
+# Metadata for Death by cause and age group and gender
+---
+Identifier: '0fa0dc07-d9f2-4aaf-a106-64b41fe2f4ba'
+Name: 'death-by-cause-and-age-group'
+Title: 'Death by cause and age group and gender'
+Description: 'Published in Report on Registration of Births and Deaths which aims
+  to provide an overview on the annual changes in population, births and deaths.'
+Topics:
+  - 'Society'
+Keywords:
+  - 'age group'
+  - 'cause of death'
+Publisher:
+  Name: 'Ministry of Home Affairs - Immigration & Checkpoints Authority'
+  Admin 1:
+    Name: 'Gng Cheang Wee'
+    Department: 'MHA / ICA'
+    Email: 'gng_cheang_wee@ica.gov.sg'
+  Admin 2:
+    Name: 'Neo Soo Beng'
+    Department: 'MHA / ICA'
+    Email: 'neo_soo_beng@ica.gov.sg'
+Sources:
+  - 'Ministry of Home Affairs - Immigration & Checkpoints Authority'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '2018-01-01 to 2018-12-31'
+Last Updated: '2019-09-03T07:19:13.388434'
+Resources:
+  -
+    Identifier: '04787aed-3c46-4854-839f-6c0755a2ffdc'
+    Title: 'Cause of death by age group'
+    Url: 'https://storage.data.gov.sg/death-by-cause-and-age-group/resources/cause-of-death-by-age-group-2019-09-03T07-19-12Z.csv'
+    Format: 'CSV'
+    Coverage: '2018-01-01 to 2018-12-31'
+    Description: 'Cause of death by age group'
+    Last Updated: '2019-09-03T07:19:12.835781'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'icd_main_category'
+        Title: 'Icd main category'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'icd_detail_category'
+        Title: 'Icd detail category'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'gender'
+        Title: 'Gender'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'death_age'
+        Title: 'Death Age'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Age group'
+      -
+        Name: 'death_count'
+        Title: 'Death count'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Number of death'

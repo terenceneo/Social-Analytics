@@ -1,0 +1,38 @@
+# Metadata for Healthier Eateries
+---
+Identifier: '1fa11dc7-2ad3-4dcf-9ec2-2aef48b133c4'
+Name: 'healthier-eateries'
+Title: 'Healthier Eateries'
+Description: 'List of Healthier Dining partners'
+Topics:
+  - 'Health'
+Keywords:
+  - 'Dining'
+  - 'Dinning'
+  - 'Healthier'
+  - 'OneMap'
+  - 'Restaurants'
+Publisher:
+  Name: 'Health Promotion Board'
+  Admin 1:
+    Name: 'James Lim'
+    Department: 'HEALTH PROMOTION BOARD'
+    Email: 'James_LIM@hpb.gov.sg'
+Sources:
+  - 'Health Promotion Board'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Ad-hoc'
+Last Updated: '2020-05-02T00:02:44.903064'
+Resources:
+  -
+    Identifier: 'cf48cea3-dcc7-45e3-821e-b576c31ac69d'
+    Title: 'Healthier Eateries (KML)'
+    Url: 'https://geo.data.gov.sg/healthierdining/2020/04/15/kml/healthierdining.kml'
+    Format: 'KML'
+    Last Updated: '2020-04-14T16:00:00'
+  -
+    Identifier: '48f960b9-bb2e-4545-a5bc-ecbdd1c5ed4e'
+    Title: 'Healthier Eateries (GEOJSON)'
+    Url: 'https://geo.data.gov.sg/healthierdining/2020/04/15/geojson/healthierdining.geojson'
+    Format: 'GeoJSON'
+    Last Updated: '2020-04-14T16:00:00'

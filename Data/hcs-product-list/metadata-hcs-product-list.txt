@@ -1,0 +1,43 @@
+# Metadata for Healthier Choice Symbol (HCS) Product List
+---
+Identifier: 'aeefad97-51a8-4a15-92ea-9bc4f76bd216'
+Name: 'hcs-product-list'
+Title: 'Healthier Choice Symbol (HCS) Product List'
+Description: 'List of products with the Healthier Choice Symbol'
+Topics:
+  - 'Health'
+Keywords:
+  - 'Diet'
+  - 'Healthcare'
+Publisher:
+  Name: 'Health Promotion Board'
+  Admin 1:
+    Name: 'Mak Ying Yuan'
+    Department: 'Healthy Food & Dining'
+    Email: 'mak_ying_yuan@hpb.gov.sg'
+Sources:
+  - 'Health Promotion Board'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Quarterly'
+Coverage: '2019-01-01 to 2019-08-31'
+Last Updated: '2020-01-13T07:56:12.406889'
+Resources:
+  -
+    Identifier: '867e1f23-bea4-41f9-91c3-3444ea79b643'
+    Title: 'Healthier Choice Symbol Product List (As Of Aug 2019)'
+    Url: 'https://storage.data.gov.sg/hcs-product-list/resources/healthier-choice-symbol-product-list-as-of-aug-2019-2019-11-09T07-25-27Z.csv'
+    Format: 'CSV'
+    Coverage: '2019-01-01 to 2019-08-31'
+    Description: 'Healthier Choice Symbol Product List (As Of Aug 2019)'
+    Last Updated: '2019-11-09T07:25:27.130941'
+    Schema:
+      -
+        Name: 'brand_and_product_name'
+        Title: 'Brand and product name'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'package_size_weight'
+        Title: 'Package size'
+        Type: 'text'
+        Sub Type: 'general'
