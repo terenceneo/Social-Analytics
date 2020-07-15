@@ -1130,8 +1130,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1750' minheight='1750' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='47' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98400' id='46' param='vert' w='99112' x='444' y='800'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='49' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98400' id='48' param='vert' w='99112' x='444' y='800'>
                 <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' h='10933' id='24' w='99112' x='444' y='800'>
                   <formatted-text>
                     <run fontcolor='#000000'>Here is a dashboard for Existing Business Owner where it shows the heatmaps of food and their no. of likes, and sentiment score towards them. Furthermore, there&apos;s a chart of influencers frequency of posting the types of cuisines. There&apos;s also charts of influencers&apos; number of followers are labelled as well as showing the number of posts the influencers have published and their average number of likes are indicated in red to green and average sentiment score are indicated in orange to blue. Additionally, there&apos;s also a chart showing the number of comments to show the engagement between the influencers and followers.</run>
@@ -1381,8 +1381,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1450' minheight='1450' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='64' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98400' id='63' param='vert' w='99112' x='444' y='800'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='66' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98400' id='65' param='vert' w='99112' x='444' y='800'>
                 <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' forceUpdate='true' h='12884' id='16' w='99112' x='444' y='800'>
                   <formatted-text>
                     <run fontcolor='#000000'>Here is a dashboard for New Business Owner where it shows the heatmaps of food and their no. of posts published, likes, and sentiment score towards them. Furthermore, a chart of influencers&apos; number of followers are labelled as well as showing the number of posts the influencers have published and their average number of likes are indicated in red to green and average sentiment score are indicated in orange to blue</run>
