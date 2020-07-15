@@ -1,0 +1,430 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20183.20.0313.1705                               -->
+<workbook original-version='18.1' source-build='2018.3.16 (20183.20.0313.1705)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <IntuitiveSorting />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='All_posts_3pareto_sentiments -  (Multiple Connections)' inline='true' name='federated.1vxgutb00en58x11wbecc0dcnybw' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='All_posts_3pareto_sentiments' name='textscan.0r4euf00w5c42a14dhnqn0joa6ut'>
+            <connection class='textscan' directory='C:/Users/Terence Neo/OneDrive - National University of Singapore/Documents/My Documents/School/University/Modules/SMU/IS434/Group Project/Instagram/Cleaned data' filename='All_posts_3pareto_sentiments.csv' password='' server='' />
+          </named-connection>
+          <named-connection caption='All_posts_3pareto_sentiments - Copy' name='excel-direct.13lxlzd1gndda11bmmssb085yb3a'>
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/Terence Neo/OneDrive - National University of Singapore/Documents/My Documents/School/University/Modules/SMU/IS434/Group Project/Tableau/All_posts_3pareto_sentiments - Copy.xlsx' interpretationMode='0' password='' server='' validate='no' />
+          </named-connection>
+        </named-connections>
+        <relation connection='excel-direct.13lxlzd1gndda11bmmssb085yb3a' name='All_posts_3pareto_sentiments - ' table='[&apos;All_posts_3pareto_sentiments - $&apos;]' type='table'>
+          <columns gridOrigin='A1:K1041:no:A1:K1041:0' header='yes' outcome='2'>
+            <column datatype='date' name='timestamp' ordinal='0' />
+            <column datatype='string' name='Username' ordinal='1' />
+            <column datatype='string' name='caption' ordinal='2' />
+            <column datatype='integer' name='no. of likes' ordinal='3' />
+            <column datatype='integer' name='no. of comments' ordinal='4' />
+            <column datatype='string' name='comments' ordinal='5' />
+            <column datatype='integer' name='ID' ordinal='6' />
+            <column datatype='string' name='food' ordinal='7' />
+            <column datatype='string' name='cuisine' ordinal='8' />
+            <column datatype='integer' name='no. of scrapped comments' ordinal='9' />
+            <column datatype='real' name='sentiment score' ordinal='10' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='column'>
+            <remote-name>timestamp</remote-name>
+            <remote-type>7</remote-type>
+            <local-name>[timestamp]</local-name>
+            <parent-name>[All_posts_3pareto_sentiments - ]</parent-name>
+            <remote-alias>timestamp</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;DATE&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Username</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Username]</local-name>
+            <parent-name>[All_posts_3pareto_sentiments - ]</parent-name>
+            <remote-alias>Username</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RGB_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>caption</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[caption]</local-name>
+            <parent-name>[All_posts_3pareto_sentiments - ]</parent-name>
+            <remote-alias>caption</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RGB_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>no. of likes</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[no. of likes]</local-name>
+            <parent-name>[All_posts_3pareto_sentiments - ]</parent-name>
+            <remote-alias>no. of likes</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>no. of comments</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[no. of comments]</local-name>
+            <parent-name>[All_posts_3pareto_sentiments - ]</parent-name>
+            <remote-alias>no. of comments</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>comments</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[comments]</local-name>
+            <parent-name>[All_posts_3pareto_sentiments - ]</parent-name>
+            <remote-alias>comments</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RGB_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>ID</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[ID]</local-name>
+            <parent-name>[All_posts_3pareto_sentiments - ]</parent-name>
+            <remote-alias>ID</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>food</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[food]</local-name>
+            <parent-name>[All_posts_3pareto_sentiments - ]</parent-name>
+            <remote-alias>food</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RGB_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>cuisine</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[cuisine]</local-name>
+            <parent-name>[All_posts_3pareto_sentiments - ]</parent-name>
+            <remote-alias>cuisine</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RGB_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>no. of scrapped comments</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[no. of scrapped comments]</local-name>
+            <parent-name>[All_posts_3pareto_sentiments - ]</parent-name>
+            <remote-alias>no. of scrapped comments</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>sentiment score</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[sentiment score]</local-name>
+            <parent-name>[All_posts_3pareto_sentiments - ]</parent-name>
+            <remote-alias>sentiment score</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[All_posts_3pareto_sentiments - ]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>0</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:K1041:no:A1:K1041:0&quot;</attribute>
+              <attribute datatype='boolean' name='header'>true</attribute>
+              <attribute datatype='integer' name='outcome'>2</attribute>
+            </attributes>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='integer' name='[ID]' role='dimension' type='ordinal' />
+      <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+        <calculation class='tableau' formula='1' />
+      </column>
+      <column caption='Caption' datatype='string' name='[caption]' role='dimension' type='nominal' />
+      <column caption='Comments' datatype='string' name='[comments]' role='dimension' type='nominal' />
+      <column caption='Cuisine' datatype='string' name='[cuisine]' role='dimension' type='nominal' />
+      <column caption='Food' datatype='string' name='[food]' role='dimension' type='nominal' />
+      <column caption='No. Of Comments' datatype='integer' name='[no. of comments]' role='measure' type='quantitative' />
+      <column caption='No. Of Likes' datatype='integer' name='[no. of likes]' role='measure' type='quantitative' />
+      <column caption='No. Of Scrapped Comments' datatype='integer' name='[no. of scrapped comments]' role='measure' type='quantitative' />
+      <column caption='Sentiment Score' datatype='real' name='[sentiment score]' role='measure' type='quantitative' />
+      <column caption='Timestamp' datatype='date' name='[timestamp]' role='dimension' type='ordinal' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.530281' measure-ordering='alphabetic' measure-percentage='0.469719' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Singapore&quot;' />
+      </semantic-values>
+      <date-options start-of-week='monday' />
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Number of &apos;giveaway&apos; posts per username</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='All_posts_3pareto_sentiments -  (Multiple Connections)' name='federated.1vxgutb00en58x11wbecc0dcnybw' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1vxgutb00en58x11wbecc0dcnybw'>
+            <column datatype='integer' name='[ID]' role='dimension' type='ordinal' />
+            <column datatype='string' name='[Username]' role='dimension' type='nominal' />
+            <column-instance column='[ID]' derivation='CountD' name='[ctd:ID:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Username]' derivation='None' name='[none:Username:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <columns>
+            <shelf-sort direction='DESC' measure-to-sort-by='[federated.1vxgutb00en58x11wbecc0dcnybw].[ctd:ID:qk]'>
+              <dimensions-to-sort>
+                <dimension>[federated.1vxgutb00en58x11wbecc0dcnybw].[none:Username:nk]</dimension>
+              </dimensions-to-sort>
+            </shelf-sort>
+          </columns>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.1vxgutb00en58x11wbecc0dcnybw].[ctd:ID:qk]' scope='rows' value='No. of posts' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='text-orientation' field='[federated.1vxgutb00en58x11wbecc0dcnybw].[none:Username:nk]' value='-90' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows>[federated.1vxgutb00en58x11wbecc0dcnybw].[ctd:ID:qk]</rows>
+        <cols>[federated.1vxgutb00en58x11wbecc0dcnybw].[none:Username:nk]</cols>
+      </table>
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1vxgutb00en58x11wbecc0dcnybw].[none:ID:ok]</field>
+            <field>[federated.1vxgutb00en58x11wbecc0dcnybw].[none:Username:nk]</field>
+            <field>[federated.1vxgutb00en58x11wbecc0dcnybw].[none:caption:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{48228009-C369-4965-B82B-732175BA5FCB}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Sheet 1' width='192'>
+      iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAAA7DAAAOwwHHb6hk
+      AAAVt0lEQVR4nO3dSYwc133H8W8tva/TPTM9C2fhJopaDdmWFDl27MBBkMXOJRcHyCU55OiT
+      kUNuuQcIkiCHnILcYge2EiBxgsCHWHEWWZElWaJEkRxy9p7u6X3vriUHSrRIdQ/Zr5o1Iuv/
+      AQSQQvfjv7rr11XvvapXmuu6LkIElH7aBQhxmiQAItAkACLQzNMuQMzOaHDE/71Zxxoc8dIr
+      L+Ggg2NhhMI4loXrgqtp6Di4moHm2tiOi6bpmDrY6ETCodPeDF9p0gl+fIz6Rf7n9QqjQZF+
+      44Dk8iY//fFPeOpLL3F8tcS5pRDFUZiM0eZqRWM9pdEYWujRKHr9kE78DH/4rd857c3wlRwB
+      HiNGKIc9eJvo3DKFfJxSz+W555/n7OY6Z9Jr5CNd0gOHerXMpUyCQjaFo4OrOQwbWYzM6mlv
+      gu/kCCACbaadYNu2Z9mcEA+djAKJQJMAiECTAIhAkwCIQJMAiECbKgC18iFXPrxBs3LE2+99
+      QLtV5733P8SyZSRVPJqmmgcYDvrs7O7i9LvY8SwRbOZTUdpmmkI6hm3b6LrO1d0Kf/4Pr09V
+      yGYhwx//3itTb4AQXkw1E7y/vUUkuUAqn6O0t0/LMHFGQ7IrcxiGAYBhGNgOlGqdqQrJJCKY
+      pkxMC39NtcflFwu0+zaxWIy5lTUuZJPU6m1yydjDqk+Ih2qqAKSzedIf/XkhGgcgn5+bdU1C
+      +EZGgUSgSQBEoEkARKBJAESgSQBEoEkARKBJAESgSQBEoEkARKBJAESgSQBEoEkARKBJAESg
+      SQBEoEkARKBJAESgSQBEoEkARKBJAESgSQBEoEkARKBJAESgTRUAazSg1e7g2BatdgfXsWm1
+      2sgzZsSjaqp1gRq1KjuHZdKxCL3+EDMawhlaFDYvkE9GH1aNQjw0UwXAMAyWllfptxuszie4
+      UWtxeTlPY2Rh2za2beO6rtKjklzXxbKsqd8nhBdTHwGaA4215Tn2jho8tVbg+m6Jy08WMIzb
+      Z1OGYdxZJ3QamqbJ2qDCd1PtcRsXnrzz52xuEYDnns7NtiIhfCSjQCLQJAAi0CQAItAkACLQ
+      JAAi0CQAItAkACLQJAAi0CQAItAkACLQJAAi0CQAItAkACLQJAAi0CQAItAkACLQJAAi0CQA
+      ItAkACLQJAAi0MYG4Lvf+y6DwYBX//FVv+sRwldjA2BbNpVKhV6vR7PZ9LsmIXwzNgDrG+tc
+      u36Nubk59vf3/a5JCN+MXRfoS698aeyLq6U9msMwSbfDbnPAai7JzsExl595hkREFrUSj56J
+      e+21qx9w/er7fPFrv8F86va6n7nFRTq7NQa2g25ZVLtDnruwQrnTJ2rGZGlE8ciZGIBuvUwi
+      M4/j/GLp56P9PW7dOubChWVsq0HEiPP2tT2efObZO8shytKI4lEydo/rNsu8/uYVFgsFPrH/
+      U1g9R2H1HADLy2sAnN182CUK8fCMDUAsNc9vffMbaDjkU7LsuXh8jR0F0jSND995gx/+879w
+      UG37XZMQvpl40n3+wlnaWpyFTNzPeoTw1cRLIba2D8lFoNLq+1mPEL6aGIC15Rw7tQGLmZif
+      9Qjhq4kB2Nkvs5KEn71/y8dyhPDXxD7AC198kXZvQCgifQDx+Bp7BNi9/h7f+/6rvPPOFcJx
+      CYB4fI09AqxdeJpX2h12Si0MXW4ZEI+viXt3vd5Eswa0eiM/6xHCVxP7AC9/5Wv0hxaxaMTP
+      eoTw1eTzG03H6jSpt2UeQDy+Jh4B3n79P9kvN3n5q1/3s567/PB/r9PpDad6z9e/cI5sUq5f
+      Eg9mYgAMw0DXTTRN87Oeu7z62gcUp7wW6fOXliUA4oGNDcDe9Svsl+sc7B4yVLi5RYhHxdg+
+      gK5rDEcWz7/8CrmEdILF42tsAMxwjKWlJZxBj5Hl+F2TEL4Zewq0eGaTxTObPpcihP9kmlcE
+      mgRABJoEQATaY78OSbMzoNGZbjY7GQszl5IbgYLgsQ/Av79xg7/7t3emes9vvnyRP/rm5x9S
+      ReKzZKoAVEt7tEYRkkaf7WKd9eU82/tlLj/zNPHwY58l8Riaaq/9eGnE1sjm4nKeDypNnju3
+      zHG7TyQz+6URXded8OrJbNu+qx3HmX4ew3EcWaYxIKYKwNH+Lltbx2ys53h/p8rSQoZ3ru1y
+      6SEtjahyHZJhGHe1oyvc0KPr+l1tjCyb/3hre8o2NH71hbNT/9vCX1MFoLB6nsLqeQA2P/pu
+      1zdnXdJnT39o8Zfff32q95iGLgF4BMiJu4+u3Cpz3OhO9Z5La3kKueRDqkhIAHz0Tz+5yn+/
+      tzfVe779uy9JAB4imQgTgSYBEIEmARCBJgEQgSYBEIEmARCBJgEQgSbzAI+Yd24c8Wd//19T
+      veeJtTx/8vtfeUgVPdokAI+Yke1Qbw+mek+rO93iYkEip0Ai0CQAItAkACLQpA8QQLbt0Jyy
+      X2DoGunHcJVACUAA7ZabfPsv/nWq9xTmEvzNd77xkCo6PXIKJAJNAiACTQIgAk0CIAJNAiAC
+      TQIgAk2GQYWym4c1eoPpFhDbKGRIxMIPqaLpKQWg2zjm+t4xF86eYW+/xPnzZzH003uYnjgd
+      f/2DN/hwrzLVe/70D77K8xeWHk5BCpQCcFQskc0vcFQsMp+KUm52WUzH7ixDqLIc4fglFadf
+      GtFxnLvacRSWV3Tdu9uwbbXHRN27PSpLPd5bi6vw2d5bizOr7ZnB93PalAIwt7BIaf+AjmYQ
+      NU2MmIam3f3ftDTU3vepdu759zW816IrHt1msj331KLa5l1tzGh7VFrRNP2udhzHxZoykLqu
+      YRqz6b4qBSAWCRPK5HluZZ79wwpL6TiadvsD0nVd7UvSxq3jqbDzflTDL/4+fSl8qg21Hebe
+      7VH7XO6uRW2DeCjbo/b93N3Oj/7vBn/1g59O1cYvP7vOd771yl3/79XXPpj6ePTbv3RRLQCR
+      RJqziTQA62srKk0IMVN/+8O3pg7Ar794XoZBRbBJAESgSQBEoEkARKBJAESgSQBEoEkARKBJ
+      AESgSQBEoEkARKBJAESgSQBEoEkARKBJAESgSQBEoEkARKBJAESgSQBEoEkARKBJAESgeQpA
+      u1bizbd+Tn/02VnnRYhpeApAudHl6c0ClVZvVvUI4StPAYgZDm9/uE0iGppVPUL4ytPiuEtr
+      51haOzerWoTwneaqLFh5D9d1cRwHx3HQdZ3ByKLSGH9a5Lru2JXJQqbOQjZxZ/1MTdM4qnXG
+      rss5qQ2AhWyckGncqaXdHdLsjn+yuos7dunERDREJhm904bjuBSr7am2R9NgOZ8CuNNOtdmj
+      P/z0asonbU82GSUeDd1poz+0qDan+2zDIYP5TPzO30eWTbnenaoNw9AozCXv+n7K9S4j69P9
+      v5O2J5+OEQmbd7an2x9Rb/enqiUWMZlLxe60AXBw3JqqDYClfHI2AfiYbdsYhjG+EMfGclwM
+      w0A/YWk+x3GU1xd90Fr8bMPvWk76wmfBdV1c1x2zTOJ0Ndxvez65W05qaxaf60yHQU8qxu43
+      eO3Hr/HB9W3qzc7kgu6ztqhjDbixvcv1rS3lWgAObl7lZ2++wU55/C/HfdtwbIp7W7z3wQ1u
+      3Nr1VEuxeMC7b/2M7nDyIrH3a6PXqrG1tcVRpXni607SrhxwWO2wdfPmxNfcu/bqOEeHu2zd
+      vMXghNHB+23PrevXGfabbO2XlNtwenVu7B9z44R9xbd5ACM2x8tfeJ5wyABnuocqfFKv26Zy
+      VMQIxzzVE45EaHe6xCKKHXjdYGkxz2AwotWaHKIH0Wseo4cT2I7awdge9jgsVzk+rhAy1X8R
+      W60Wxb1tUtl55TYArJFFOBKldFRUbmN1ZYErV7dZzM8pt9Fut6iVDzEjiYmv8S0AmqbRbTe5
+      duMG2/uHyu0kkmnMUJjjkvqHC9DtDynM56ZemvsumkmlViOd9BbGeCJDp1VVWm8fwAjHyGcS
+      tLttSsdV5TrS6RQ3d3bZ3r6l3AZA6aiEYZqsrqovnLy/u898Lsl+ydv2lHf32Tk6mvgaX2eC
+      09kcq/M5lldW1RvRTBayCbI5b79ShqajaVAsTv5w7l+LhonF0OM8oAuEI9ET+0YnN+DiOhrz
+      +XkiIfUjQDieYmVhjnQqrdwGwFJhnv2DI7z0LpdXV+j0LFYW1I8AhNM8cWmTzaXFiS/xLQCu
+      PWL75haRdN7bvIFrU661qFXKnuoxDI29gyILiwvqjWgm66uL6Ia3R621213CYVN16X/ABcMg
+      nUqRzWaV6xh2mxRrHbrd8SNeD+rm1jVqzRa2hwTs7ewSS6YwvHToR20aA53j8uR+hH8PydM0
+      MrkFHDNKu90mEYsqNdMbDMmkEhjRyed1D8J2debn0p5+pXAsKvUWhRX1nQ4+emCE7Sg9zQYA
+      TUd3bSxHU36aDUB8bpmvfDFCrTV+iPRBOI7DCy9+mW5/RMhDLYtLBY7qHSwvj1MKp4hzg3Bu
+      eeJL/OsD6CYRE2q1KrUTRoHu52D7BrvFY3Td2/CX5cClJ84rPc/sDt1kcSHvqeM5HPSJJxJE
+      4ylMxW/DHvbYunmLdq/naYfRNJ1cfp5uR71T32o2ODzc5+i46unHpdlsMeq1eOOtnys95w2A
+      QYO2m+C4uMtgNH7gxdc+gK4bZOYWuXR+Q7mN809cppDPYHh8RlQum+TGTolcOn7/F09iD3j3
+      /escHKp3yMORKI12l2TIpj1Q23mNcIzlpQIb6+tUPZ4aOrbF4mJB+f3hUIhypUG/28BSHNUC
+      iEbChKNxIuGQyrMSAXDMBOuFNOvr6xMfUOhrAMKxGJWjPUrHdU/ttFsthmNmVKexf1ikXTng
+      oOJhCFPXWF1aJpVKKTfhui4Lcxnalkk2rn5GOr+4yNHeTXLz6o8gbR/v8qMfv85+cfI58/2Y
+      oRCrSwsk0zlMQ/0UaGRZmOEozz/zlPJp3aDbpt7q0u4OiIbH9zt9DUC7Ueeo1uK4pD4Miqaz
+      uLiAbY881bJ+ZpXc8gZLWcUjgGOxd1Ahm02Q9hCA0XCAZdvomoZtq/9iVkpHmLE0EVN9p4vE
+      0ywuzHF+c125jeGgz85BkWbtGMvD9riWRX848nSKOmgds1uqMRwOJ77G1wDEYnGSEYPFlTX1
+      RlyHar1FrVbzVMv+3gGpuTzRsOKvrjOicXxAfWiSiEeU6whHorj2iIPdLdonzATfvx6bwXCk
+      PJkGYISjxEyXW9evUumo/cAkUhnOra2QnptXPwI4FuFUloihofYw1tuyhXWW0jFMc/J37GsA
+      oskMmZhJq60+ylCtlIlEIiST3saqXddhOByqd7DMGBeeuMRCNkGr0VCeUPv4wdGJdI5oSP3r
+      iKfS6K6t/FBvAMca0e0PSc+vkk+oD1Uflo5pN2vqYdRNIqaOaRreRoFcB8txGQzGX2wHfs4D
+      uA79fp+l9fOsL+WV28nlFxgOh7Ra3voR0ViMfqfjaSY4ksxxppCj02kof9ntRpWRa5DOZPBw
+      9sJwOGR7e4sDD+fv/U6dw0qbeq2iXghQmM+RTM9hKp67D3stytU6O7v73h6I/VGQItHJM/X+
+      HQHsEYfFIns725Rq6hdsoRnMz6XIz3uYwAJ016I78NaPwBqwf3hEKj2Hofhlp+fmqZSPCIdC
+      HibCQDfCbGxskIyrza9gj6i2BlzcXCWf9zbLfnRcodWoKo8CaZpBvd5gdSnvaU4CZ0Tfcuj1
+      Jrfh3zyAEaawME88FvVwVge4NkeVBpWyt+G+RCpDxHDxcikQhkm/UeboYI/j1vh7Du6nXimh
+      GSHarSYj1U6j67CzfQMXg8FocofvREaI+Uyc3tChWlO//qbf75PNpJnLzSv/KISicTZWFrFc
+      zeNwt07YNE4c1vXvCKBp9LstDiotGjUPO69msDiXJufxCNBsNjFci8aEm2Xuy3VoNeqkFla4
+      cOlpChm1X954PE61Xmc46DFS7sBqrJ5ZJxo2mVO9FMK1OKy0iegj5j18tod722zvHWKc0PF8
+      ULbl4Xp/12F/b5tKvYVlTR4y9+9SCG5fDLfQtsll1IcNcS3K9dbtc+5NxdEk18Uywizn0lQs
+      1VkWm8NikcHIIZGZ51xi8nT7ScKxJBfPLDAMZQmp/tppGrgOtUYHNB3yCiEYtilVmmiGTndU
+      4syS2mlQOp1mxdFwPIxGwe2bXTRQ79RrOqtn1hmMdmm0e0zaU3wdBeo069y8tcVRtaHcxgfv
+      X2E4HLF65ox6IY5Fs95gv9xiPqt4TZFucvbcBcIG2I63y0E79RJXPtxiYKmfj2nG7UtNMBRH
+      byIZPv+5Z3jh2ad4+slLynXkF5dxh+3bY/geMhAKhXBc19NlJi5QrraJRSafivkagEgswbmN
+      Tc6sqv1aAly4+ATxaIhWo67eiTVCRENQL+2yU1LskGsaIbvBz7eOaTW9jUjl1i+zuZgkonox
+      EBAJh4nGUyRUb/BBIxyJEI5EPO10AN12k4NiWfkSBssa0Wy10HVt4jU8D6I3sFhZzhOLTJ7s
+      9O0UyBn1+fDqVexIlryHnqdpmliORq92zNB2efbyE0rtXLz0NJbtYIbCyrW4WpgXv/A5nKG3
+      y4fb9SN0M87Idomp7L+uw8h2wBlhhBVHgWak1+uxvHaOjKVznzsnJ+o2jrmytc/li+eY83Cz
+      Udgd0LJD6PUqK4Xxp3S+BUA3I6xvbGAkcjSqx5BV7AfoJmfXV+iNHDIeLkEwQ2FMj8sZ1cpF
+      dsuOp3kNgPOXPuetEE1n1OtgY2DO4CZ+L2KxGFvVKpm8+lE+nV/ma7+SIxpRn2EH6A+GXHv3
+      TVbWz098ja+nQLVqheLhIelsTr0R22Lrw6u8d32bRMLDlZwzkFtYxHBdz1/ULLi25enqy1nS
+      gKHqcOxHZvGZJlMJIIxtT67F1xtizj/5rPd2dJPVjXOcjXu7IWYmQjHipjN2bRy/xRJJtF7L
+      06UQM2P1ubVXZH3tDB7uifEulOLppy4wl81MfImvw6AzoWksrajfbD1TjsV+pUUiWYeCt9Mg
+      r1L5JZ7Kq18KPUuaYRI2dW93283CqMMbb7/H+Y018vnx38+jF4DPEj1EKgK2Jh/jx+qVMn3b
+      JJ3wdmnHLFhahF/78kvoJ4wCyfMBvLBHpDJ5UkkPE3uPmWx+gUQ0fPtyl1M+AjiOg2YYaCcU
+      Ij9dnjh02j3MZfkd+aSLT14GJi9p6JdwJEoucvKwsATAC9cFnc9EJ/iz5LR3/GlIALzQNEql
+      Iqaps3LKnWChRgLghR7iwsYGkVTytCsRiuTkVZVjUzw8BDOEdurjfUKVBECVbrBUWGA0suh2
+      1Rf6EqdLToG80G9P+CwUJi++Kj7b5AjghT2gWm9hySjQI0sC4IURZzGfoNX2djm0OD1yCqTK
+      dXFdB9eFRkP9DjdxuuQIoMru8+5bb1Abmlw8t3na1QhFM31KZNBY/TaNgUY6HiEUkoPpo+j/
+      AYebCc7doacFAAAAAElFTkSuQmCC
+    </thumbnail>
+  </thumbnails>
+</workbook>
