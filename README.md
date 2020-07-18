@@ -50,9 +50,10 @@ import pandas as pd
 ## View project:
 
 - [Website](https://terenceneo.github.io/Social-Analytics/)
-- [Slide Deck](https://github.com/terenceneo/Social-Analytics/tree/master/Slides)
+- [Proposal Pitch](https://github.com/terenceneo/Social-Analytics/blob/master/Final%20Submission/G10_Group6-Terence_FoodieBuddie_IS434_Social_Analytics_Proposal_Pitch.pptx)
+- [Final Presentation](https://github.com/terenceneo/Social-Analytics/blob/master/Final%20Submission/G10_Group6-Terence_FoodieBuddie_IS434_Social_Analytics_Final_Presentation.pdf)
 - [Code](https://github.com/terenceneo/Social-Analytics/tree/master/Code)
-- [Report](https://github.com/terenceneo/Social-Analytics/blob/master/Report/Group%20Project%20Report.docx)
+- [Report](https://github.com/terenceneo/Social-Analytics/blob/master/Final%20Submission/Group%20Project%20Report.docx)
 - [Medium Article]()
 
 ## The Team
