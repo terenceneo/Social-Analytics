@@ -26,7 +26,7 @@ This can be done by suggesting food that is going to be trending, which they can
 
 ## Dataset Used
 
-- [Instagram](Social-Analytics/Instagram/)
+- [Instagram](terenceneo/Social-Analytics/Instagram/)
 
 ## Getting Started
 
