@@ -1,6 +1,6 @@
 # Social Analytics
 
-![](https://github.com/terenceneo/Social-Analytics/blob/master/docs/img/Logo_Black.JPEG)
+![](/docs/img/Logo_Black.JPEG)
 
 Social data analysis, building a food and food influencer recommender, a must have for your food business!
 
