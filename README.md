@@ -43,7 +43,7 @@ This can be done by suggesting food that is going to be trending, which they can
 ## View project:
 
 - [Website](https://terenceneo.github.io/Social-Analytics/)
-- [Slide Deck]()
+- [Slide Deck](https://github.com/terenceneo/Social-Analytics/tree/master/Slides)
 - [Code](https://github.com/terenceneo/Social-Analytics/tree/master/Code)
 - [Report](https://github.com/terenceneo/Social-Analytics/blob/master/Report/Group%20Project%20Report.docx)
 
