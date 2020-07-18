@@ -6,13 +6,13 @@ Social data analysis, building a food and food influencer recommender, a must ha
 
 ## Background
 
-Singapore is an [international food paradise](https://medium.com/r/?url=https%3A%2F%2Fwww.straitstimes.com%2Fopinion%2Fglobal-city-foodies-paradise) with a [billion-dollar food industry](https://medium.com/r/?url=https%3A%2F%2Ffoodindustry.asia%2Fthe-food-industry-a-strong-contributor-to-singapores-economy). The food industry in Singapore is worth S$8.3 billion in annual receipts and makes S$4.3 billion annual contribution to the country's GDP with 48,000 workers employed. According to the Ministry of Trade & Industry's (MTI) [Food Industry Transformation Map](https://medium.com/r/?url=https%3A%2F%2Fwww.enterprisesg.gov.sg%2Findustries%2Ftype%2Ffood-manufacturing%2Findustry-profile), there is a 4.5% of productivity growth and 2,000 new jobs planned for 2020. This makes Singapore's food industry an attractive sector for budding entrepreneurs.
+Singapore is an [international food paradise](https:/www.straitstimes.com%2Fopinion%2Fglobal-city-foodies-paradise) with a [billion-dollar food industry](https://foodindustry.asia/the-food-industry-a-strong-contributor-to-singapores-economy). The food industry in Singapore is worth S$8.3 billion in annual receipts and makes S$4.3 billion annual contribution to the country's GDP with 48,000 workers employed. According to the Ministry of Trade & Industry's (MTI) [Food Industry Transformation Map](https://www.enterprisesg.gov.sg%2Findustries%2Ftype%2Ffood-manufacturing%2Findustry-profile), there is a 4.5% of productivity growth and 2,000 new jobs planned for 2020. This makes Singapore's food industry an attractive sector for budding entrepreneurs.
 
 ## Problem
 
 Due to the current COVID-19 pandemic, a lot of usual businesses eg. manufacturing, offices, are suffering. In order to help them, we want to identify a promising industry for them to start a new business.
 
-Furthermore, as a [result of the COVID-19 pandemic](https://medium.com/r/?url=https%3A%2F%2Fwww.scmp.com%2Fnews%2Fasia%2Fsoutheast-asia%2Farticle%2F3081906%2Fcoronavirus-singapores-home-based-food-businesses-hit-hard) and in its [aftermath](https://medium.com/r/?url=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Ffb-sales-fall-april-amid-circuit-breaker-some-restaurants-choose-close-shop-good), existing food businesses are hard pressed to reconsider their offerings and business strategy in order to amass enough sales to [keep up or fall out](https://medium.com/r/?url=https%3A%2F%2Fvulcanpost.com%2F700385%2Ffb-businesses-closed-down-singapore%2F) of the race.
+Furthermore, as a [result of the COVID-19 pandemic](https://www.scmp.com/news/asia/southeast-asia/article/3081906/coronavirus-singapores-home-based-food-businesses-hit-hard) and in its [aftermath](https://www.todayonline.com/singapore/fb-sales-fall-april-amid-circuit-breaker-some-restaurants-choose-close-shop-good), existing food businesses are hard pressed to reconsider their offerings and business strategy in order to amass enough sales to [keep up or fall out](https://vulcanpost.com/700385/fb-businesses-closed-down-singapore/) of the race.
 
 This can be done by:
 
