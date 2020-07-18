@@ -1,6 +1,6 @@
 # Social Analytics
 
-![](/docs/img/Logo_Black.JPEG)
+![logo](/docs/img/Logo_Black.JPEG)
 
 Social data analysis, building a food and food influencer recommender, a must have for your food business!
 
@@ -32,7 +32,12 @@ This can be done by:
 ## Outcomes
 
 - Data visualisation dashboards for new and existing business owners who are interested in the food industry
+
+![dashboard](/Images/existing.png)
+
 - Social Network Graph
+
+![network graph](/Images/socialgraph.png)
 
 ## Dataset Used
 
