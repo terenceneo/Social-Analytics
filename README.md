@@ -29,6 +29,10 @@
 
 ### Software
 
+### Environment
+
+- [Jupyter lab](environment.md)
+
 ## View project:
 
 - [Website]()
