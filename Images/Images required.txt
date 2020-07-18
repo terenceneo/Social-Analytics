@@ -1,0 +1,5 @@
+Intro and Biz question
+Scraping data from insta
+Labelling Food and Cuisine names, Sentiment analysis
+Social network analysis
+Final visualisations and Insights
