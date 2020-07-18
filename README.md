@@ -13,13 +13,16 @@ This can be done by suggesting food that is going to be trending, which they can
 
 ## Brief Workflow
 
-1. xxx
-2. xxx
+1. Instagram Scraping
+2. Corpus Creation
+3. Sentiment Analysis
+4. Food/Cuisine and Influencers Analysis
+5. Social Network Analysis
 
 ## Outcomes
 
-- xxx
-- xxx
+- Tableau dashboards for both new and existing business owners who are interested in the food industry
+- Gephi chart
 
 ## Dataset Used
 
