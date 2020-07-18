@@ -10,7 +10,7 @@ Singapore is an [international food paradise](https:/www.straitstimes.com%2Fopin
 
 ## Problem
 
-![](\Images\breko.jpg?raw=true)
+![](/Images/breko.jpg?raw=true)
 
 Due to the current COVID-19 pandemic, a lot of usual businesses eg. manufacturing, offices, are suffering. In order to help them, we want to identify a promising industry for them to start a new business.
 
