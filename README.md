@@ -51,7 +51,7 @@ This can be done by:
 - [Proposal Pitch](https://github.com/terenceneo/Social-Analytics/blob/master/Final%20Submission/G10_Group6-Terence_FoodieBuddie_IS434_Social_Analytics_Proposal_Pitch.pptx)
 - [Final Presentation](https://github.com/terenceneo/Social-Analytics/blob/master/Final%20Submission/G10_Group6-Terence_FoodieBuddie_IS434_Social_Analytics_Final_Presentation.pdf)
 - [Code](https://github.com/terenceneo/Social-Analytics/tree/master/Code)
-- [Report](https://github.com/terenceneo/Social-Analytics/blob/master/Final%20Submission/Group%20Project%20Report.pdf)
+- [Report](https://github.com/terenceneo/Social-Analytics/blob/master/Final%20Submission/Group%20Project%20Report.docx)
 - [Medium Article](https://medium.com/@terencenyy/b7f3eed0ac77)
 
 ## The Team
