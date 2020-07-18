@@ -36,48 +36,6 @@ This can be done by:
 
 - [Instagram scrapes](https://github.com/terenceneo/Social-Analytics/tree/master/Instagram) of posts from the top 12 food influencers in Singapore from 30th May to 30th June 2020
 
-## Getting Started
-
-### Tools & Packages
-
-- Standard data manipulation packages
-
-```python
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-```
-
-- Data scraping packages
-
-```python
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from bs4 import BeautifulSoup as bs
-from urllib.request import urlopen
-
-import wikipedia
-import codecs
-```
-
-- Natural Language Processing packages
-
-```python
-import re
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
-from nltk.sentiment.vader import SentimentIntensityAnalyzer as SIA
-from wordcloud import WordCloud
-```
-
-- Phantombuster: https://phantombuster.com/login
-- Tableau (2020.1): https://www.tableau.com/products/desktop/download
-- Gephi (0.9.2): https://gephi.org/users/install/
-
-### Environment
-
-- [Jupyter lab](environment.md)
-
 ## View project:
 
 <!-- To change presentation to google slides view only links -->
@@ -97,6 +55,12 @@ from wordcloud import WordCloud
 - [Christal Poon](https://github.com/chriseasalt)
 
 ## Acknowledgements
+
+We would like to thank the following parties without whom this project would not have been possible:
+
+- Professor Kyong Jin Shim, for not sleeping, increasing the energy of the class always, and for being the best Prof in this module. We couldn't have asked for anyone better
+- TA Qi Haodi and TA Ng Swee Hong, for their invaluable support and advice, and for being always avaliable to answer our questions
+- [Singapore Management University](https://www.smu.edu.sg/), for sponsoring AWS credits for us to run our code
 
 ## References
 
