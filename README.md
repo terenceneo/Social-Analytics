@@ -10,6 +10,8 @@ Singapore is an [international food paradise](https:/www.straitstimes.com%2Fopin
 
 ## Problem
 
+![](\Images\breko.jpg)
+
 Due to the current COVID-19 pandemic, a lot of usual businesses eg. manufacturing, offices, are suffering. In order to help them, we want to identify a promising industry for them to start a new business.
 
 Furthermore, as a [result of the COVID-19 pandemic](https://www.scmp.com/news/asia/southeast-asia/article/3081906/coronavirus-singapores-home-based-food-businesses-hit-hard) and in its [aftermath](https://www.todayonline.com/singapore/fb-sales-fall-april-amid-circuit-breaker-some-restaurants-choose-close-shop-good), existing food businesses are hard pressed to reconsider their offerings and business strategy in order to amass enough sales to [keep up or fall out](https://vulcanpost.com/700385/fb-businesses-closed-down-singapore/) of the race.
