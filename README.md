@@ -21,8 +21,8 @@ This can be done by suggesting food that is going to be trending, which they can
 
 ## Outcomes
 
-- Tableau dashboards for both new and existing business owners who are interested in the food industry
-- Gephi chart
+- Tableau dashboards for new and existing business owners who are interested in the food industry
+- Social Network Graph
 
 ## Dataset Used
 
@@ -30,11 +30,18 @@ This can be done by suggesting food that is going to be trending, which they can
 
 ## Getting Started
 
-### Packages
-
-- (package and version), how to install stuff
-
-### Software
+### Tools & Packages
+- Python Selenium WebDriver, BeautifulSoup, Pandas:
+```
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from bs4 import BeautifulSoup as bs
+from urllib.request import urlopen
+import pandas as pd
+```
+- Phantombuster: https://phantombuster.com/login
+- Tableau (2020.1): https://www.tableau.com/products/desktop/download
+- Gephi (0.9.2): https://gephi.org/users/install/
 
 ### Environment
 
@@ -50,7 +57,7 @@ This can be done by suggesting food that is going to be trending, which they can
 
 ## The Team
 - Terence Neo
-- Gracia Kwan
+- Gracia Yuwono Kwantalalu
 - Kok Jim Meng
 - Christal Poon
 
