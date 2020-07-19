@@ -1,5 +1,19 @@
 # Getting Started
 
+## Files
+
+### Code
+
+- [Corpus_Wikipedia.ipynb](Corpus_Wikipedia.ipynb): Food corpus creation from Wikipedia and Blog posts scrapes
+- [Corpus_Name Entity Recognition.ipynb](Corpus_Name%20Entity%20Recognition.ipynb): Named Entity Extraction for Corpus creation
+- [Data Labelling.ipynb](Data%20Labelling.ipynb): Labelling of Instagram posts with Food and Cuisine names from Wikipedia Corpus, and Pareto Analysis to supplement corpus
+- [Sentiment Analysis.ipynb](Sentiment%20Analysis.ipynb): Sentiment Analysis on Instagram posts and comments
+
+### Data Sources
+
+- [japfood.html](japfood.html): Japanese food blog - _required for [Corpus_Wikipedia.ipynb](Corpus_Wikipedia.ipynb)_
+- [koreanfood.html](koreanfood.html): Korean food blog - _required for [Corpus_Wikipedia.ipynb](Corpus_Wikipedia.ipynb)_
+
 ## Tools & Packages
 
 - Standard data manipulation packages
