@@ -53,7 +53,7 @@ This can be done by:
 - [Code](https://github.com/terenceneo/Social-Analytics/tree/master/Code)
 - [Report](https://github.com/terenceneo/Social-Analytics/blob/master/Final%20Submission/Group%20Project%20Report.docx)
 - [Medium Article](https://link.medium.com/ZH5fkTlDf8)
-- [Poster]()
+- [Poster](https://github.com/terenceneo/Social-Analytics/blob/master/Final%20Submission/Final%20Poster.pdf)
 
 ## The Team
 
